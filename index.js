@@ -5,20 +5,29 @@ const scrapeSacCityCouncil = require("./scrapers/sac-city-council.js")
 const scrapeSCUSD = require("./scrapers/scusd-board.js")
 
 const app = express()
-const port = process.env.PORT | 3000
+const port = process.env.PORT || 3000
 
-app.get("/calendar.ics", async (req, res) => {
-  const cityCouncilMeetings = await scrapeSacCityCouncil()
-  const supervisorMeetings = await scrapeSacBoardOfSupervisors()
-  const scusdMeetings = await scrapeSCUSD()
-  const meetings = [].concat(
-    scusdMeetings,
-    cityCouncilMeetings,
-    supervisorMeetings
-  )
-  res.json(meetings)
+app.get("/", (req, res) => {
+  res.send("OK")
 })
 
-app.listen(port, () => {
-  console.log(`Example app listening at http://localhost:${port}`)
+app.get("/calendar.ics", (req, res) => {
+  console.log("Got request")
+  Promise.all([
+    scrapeSacCityCouncil(),
+    scrapeSacBoardOfSupervisors(),
+    scrapeSCUSD(),
+  ]).then(([cityCouncilMeetings, supervisorMeetings, scusdMeetings]) => {
+    console.log("Scrapes done")
+    const meetings = [].concat(
+      scusdMeetings,
+      cityCouncilMeetings,
+      supervisorMeetings
+    )
+    res.json(meetings)
+  })
+})
+
+app.listen(port, "0.0.0.0", () => {
+  console.log(`Up and running on port ${port}`)
 })
