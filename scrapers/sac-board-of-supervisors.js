@@ -1,7 +1,10 @@
 const cheerio = require("cheerio")
+const { timeParse } = require("d3-time-format")
 const fetch = require("isomorphic-fetch")
 
 const url = "https://saccounty.mhsoftware.com/rss/calendar_id/3.xml"
+
+const parseDate = timeParse("%a, %e %b %Y %_I:%M:%S %Z")
 
 async function scrapeSacBoardOfSupervisors() {
   const req = await fetch(url)
@@ -19,18 +22,26 @@ async function scrapeSacBoardOfSupervisors() {
     const link = $$.find("link").text()
     const guid = $$.find("guid").text()
     const startDate = $$.find("cdaily\\:eventStartDate").text()
-    // const endDate = $$.find("cdaily\\:eventEndDate").text()
-    // const lastModified = $$.find("cdaily\\:lastModified").text()
 
     const isBoardMeeting = title.toLowerCase().includes("board of supervisors")
     if (!isBoardMeeting) return
 
+    const date = parseDate(startDate)
+    const start = [
+      date.getFullYear(),
+      date.getMonth() + 1,
+      date.getDate(),
+      date.getHours(),
+      date.getMinutes(),
+    ]
+
     data.push({
       title,
       description,
-      link,
-      guid,
-      date: startDate,
+      url: link,
+      uid: guid,
+      start,
+      duration: { minutes: 90 },
     })
   })
 

@@ -32,10 +32,20 @@ async function scrapeSCUSDBoard() {
     parsedDate.setHours(parsedTime.getHours())
     parsedDate.setMinutes(parsedTime.getMinutes())
 
+    const start = [
+      parsedDate.getFullYear(),
+      parsedDate.getMonth() + 1,
+      parsedDate.getDate(),
+      parsedDate.getHours(),
+      parsedDate.getMinutes(),
+    ]
+
     // debugger
     data.push({
       title,
-      date: formatDate(parsedDate),
+      start,
+      description: "",
+      duration: { minutes: 90 },
     })
   })
 

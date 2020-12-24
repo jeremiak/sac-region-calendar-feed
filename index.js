@@ -1,4 +1,5 @@
 const express = require("express")
+const ics = require("ics")
 
 const scrapeSacBoardOfSupervisors = require("./scrapers/sac-board-of-supervisors.js")
 const scrapeSacCityCouncil = require("./scrapers/sac-city-council.js")
@@ -12,19 +13,24 @@ app.get("/", (req, res) => {
 })
 
 app.get("/calendar.ics", (req, res) => {
-  console.log("Got request")
   Promise.all([
     scrapeSacCityCouncil(),
-    scrapeSacBoardOfSupervisors(),
     scrapeSCUSD(),
-  ]).then(([cityCouncilMeetings, supervisorMeetings, scusdMeetings]) => {
-    console.log("Scrapes done")
+    scrapeSacBoardOfSupervisors(),
+  ]).then(([cityCouncilMeetings, scusdMeetings, supervisorMeetings]) => {
     const meetings = [].concat(
-      scusdMeetings,
       cityCouncilMeetings,
+      scusdMeetings,
       supervisorMeetings
     )
-    res.json(meetings)
+    const { error, value } = ics.createEvents(meetings)
+
+    if (error) {
+      res.json({ error })
+      return
+    }
+
+    res.send(value)
   })
 })
 
