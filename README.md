@@ -1,6 +1,6 @@
 # Sacramento region calendar scraper
 
-Scrape calendars from regional governmental bodies and generate a single `.ics` feed from them.
+Scrape calendars from [regional governmental bodies](https://github.com/jeremiak/sac-region-calendar-feed/issues/1) and generate a single `.ics` feed from them. We can easily add that `.ics` feed to a Google calendar (or other calendar software) for easy monitoring.
 
 ## Getting started
 
@@ -10,7 +10,7 @@ Scrape calendars from regional governmental bodies and generate a single `.ics` 
 
 ## Scrapers
 
-Each "scraper" is represented within the `scrapers/` directory as a single file. It is expected that each file exports a function that returns a promise. That promise should fulfill with all of the calendar events structured as follows:
+Each "scraper" is represented within the `scrapers/` directory as a single file. It is expected that each file exports a function that returns a promise. That promise should fulfill with an array of objects, each representing a calendar event and structured as follows:
 
 ```
 {
@@ -22,3 +22,4 @@ Each "scraper" is represented within the `scrapers/` directory as a single file.
   duration: { minutes: 90 },
 }
 ```
+Please make sure to adjust the `duration.minutes` value if applicable to the meeting.
