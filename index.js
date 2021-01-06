@@ -17,7 +17,8 @@ app.get("/calendar.ics", (req, res) => {
     scrapeSacCityCouncil(),
     scrapeSCUSD(),
     scrapeSacBoardOfSupervisors(),
-  ]).then(([cityCouncilMeetings, scusdMeetings, supervisorMeetings]) => {
+  ]).then((data) => {
+    const [cityCouncilMeetings, scusdMeetings, supervisorMeetings] = data
     const meetings = [].concat(
       cityCouncilMeetings,
       scusdMeetings,
@@ -29,7 +30,8 @@ app.get("/calendar.ics", (req, res) => {
       res.json({ error })
       return
     }
-
+    res.json(meetings)
+    return
     res.send(value)
   })
 })
