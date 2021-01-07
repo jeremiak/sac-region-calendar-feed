@@ -1,6 +1,7 @@
 const express = require("express")
 const ics = require("ics")
 
+const scrapeEGUSD = require("./scrapers/egusd-board.js")
 const scrapeSacBoardOfSupervisors = require("./scrapers/sac-board-of-supervisors.js")
 const scrapeSacCityCouncil = require("./scrapers/sac-city-council.js")
 const scrapeSCUSD = require("./scrapers/scusd-board.js")
@@ -12,17 +13,21 @@ app.get("/", (req, res) => {
   res.send("OK")
 })
 
-app.get("/calendar.ics", (req, res) => {
+app.get("/calendar.:format", (req, res) => {
+  const { format } = req.params
   Promise.all([
+    scrapeSacBoardOfSupervisors(),
     scrapeSacCityCouncil(),
     scrapeSCUSD(),
-    scrapeSacBoardOfSupervisors(),
+    scrapeEGUSD(),
   ]).then((data) => {
-    const [cityCouncilMeetings, scusdMeetings, supervisorMeetings] = data
+    const [supervisorMeetings, cityCouncilMeetings, scusdMeetings, egusdMeetings] = data
+    // const [egusdMeetings] = data
     const meetings = [].concat(
+      supervisorMeetings,
       cityCouncilMeetings,
       scusdMeetings,
-      supervisorMeetings
+      egusdMeetings,
     )
     const { error, value } = ics.createEvents(meetings)
 
@@ -30,9 +35,16 @@ app.get("/calendar.ics", (req, res) => {
       res.json({ error })
       return
     }
-    res.json(meetings)
-    return
-    res.send(value)
+
+    if (format === 'json') {
+      return res.json(meetings)
+    }
+
+    if (format === 'ics') {
+      return res.send(value)
+    }
+
+    return res.status(404)
   })
 })
 

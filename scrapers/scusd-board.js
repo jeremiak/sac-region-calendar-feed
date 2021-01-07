@@ -40,12 +40,11 @@ async function scrapeSCUSDBoard() {
       parsedDate.getMinutes(),
     ]
 
-    // debugger
     data.push({
-      title,
+      title: 'SCUSD Board Meeting',
       start,
       description: "",
-      duration: { minutes: 90 },
+      duration: { hours: 2 },
     })
   })
 

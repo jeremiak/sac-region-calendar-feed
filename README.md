@@ -19,7 +19,7 @@ Each "scraper" is represented within the `scrapers/` directory as a single file.
   url: 'Any sort of URL for the meeting goes here',
   uid: 'Use any sort of internal identifier that the source uses',
   start: [YYYY, MM, DD, H, M],
-  duration: { minutes: 90 },
+  duration: { hours: 2, minutes: 0 },
 }
 ```
-Please make sure to adjust the `duration.minutes` value if applicable to the meeting.
+Please make sure to adjust the `duration.hours` and `duration.minutes` values if applicable to the meeting.

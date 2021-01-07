@@ -36,12 +36,12 @@ async function scrapeSacBoardOfSupervisors() {
     ]
 
     data.push({
-      title,
+      title: 'Sac County Board of Supervisors Meeting',
       description,
       url: link,
       uid: guid,
       start,
-      duration: { minutes: 90 },
+      duration: { hours: 2 },
     })
   })
 

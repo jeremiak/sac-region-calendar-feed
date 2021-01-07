@@ -42,7 +42,7 @@ async function scrapeSacCityCouncil() {
       url: link,
       uid: guid,
       start,
-      duration: { minutes: 90 },
+      duration: { hours: 2 },
     })
   })
 
