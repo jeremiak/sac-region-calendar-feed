@@ -4,6 +4,7 @@ const ics = require("ics")
 const scrapeCHCityCouncil = require('./scrapers/ch-city-council.js')
 const scrapeEGCityCouncil = require('./scrapers/eg-city-council.js')
 const scrapeEGUSD = require("./scrapers/egusd-board.js")
+const scrapeSJUSDBoard = require('./scrapers/sjusd-board.js')
 const scrapeSacBoardOfSupervisors = require("./scrapers/sac-board-of-supervisors.js")
 const scrapeSacCityCouncil = require("./scrapers/sac-city-council.js")
 const scrapeSCUSD = require("./scrapers/scusd-board.js")
@@ -24,6 +25,7 @@ app.get("/calendar.:format", (req, res) => {
     scrapeEGUSD(),
     scrapeEGCityCouncil(),
     scrapeCHCityCouncil(),
+    scrapeSJUSDBoard(),
   ]).then((data) => {
 
     const meetings = [].concat(...data)
