@@ -1,6 +1,7 @@
 const express = require("express")
 const ics = require("ics")
 
+const scrapeEGCityCouncil = require('./scrapers/eg-city-council.js')
 const scrapeEGUSD = require("./scrapers/egusd-board.js")
 const scrapeSacBoardOfSupervisors = require("./scrapers/sac-board-of-supervisors.js")
 const scrapeSacCityCouncil = require("./scrapers/sac-city-council.js")
@@ -20,15 +21,10 @@ app.get("/calendar.:format", (req, res) => {
     scrapeSacCityCouncil(),
     scrapeSCUSD(),
     scrapeEGUSD(),
+    scrapeEGCityCouncil()
   ]).then((data) => {
-    const [supervisorMeetings, cityCouncilMeetings, scusdMeetings, egusdMeetings] = data
-    // const [egusdMeetings] = data
-    const meetings = [].concat(
-      supervisorMeetings,
-      cityCouncilMeetings,
-      scusdMeetings,
-      egusdMeetings,
-    )
+
+    const meetings = [].concat(...data)
     const { error, value } = ics.createEvents(meetings)
 
     if (error) {
