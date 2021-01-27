@@ -1,10 +1,10 @@
 const express = require("express")
 const ics = require("ics")
 
-const scrapeCHCityCouncil = require('./scrapers/ch-city-council.js')
-const scrapeEGCityCouncil = require('./scrapers/eg-city-council.js')
+const scrapeCHCityCouncil = require("./scrapers/ch-city-council.js")
+const scrapeEGCityCouncil = require("./scrapers/eg-city-council.js")
 const scrapeEGUSD = require("./scrapers/egusd-board.js")
-const scrapeSJUSDBoard = require('./scrapers/sjusd-board.js')
+const scrapeSJUSDBoard = require("./scrapers/sjusd-board.js")
 const scrapeSacBoardOfSupervisors = require("./scrapers/sac-board-of-supervisors.js")
 const scrapeSacCityCouncil = require("./scrapers/sac-city-council.js")
 const scrapeSCUSD = require("./scrapers/scusd-board.js")
@@ -24,10 +24,9 @@ app.get("/calendar.:format", (req, res) => {
     scrapeSCUSD(),
     scrapeEGUSD(),
     scrapeEGCityCouncil(),
-    scrapeCHCityCouncil(),
+    // scrapeCHCityCouncil(),
     scrapeSJUSDBoard(),
   ]).then((data) => {
-
     const meetings = [].concat(...data)
     const { error, value } = ics.createEvents(meetings)
 
@@ -36,11 +35,11 @@ app.get("/calendar.:format", (req, res) => {
       return
     }
 
-    if (format === 'json') {
+    if (format === "json") {
       return res.json(meetings)
     }
 
-    if (format === 'ics') {
+    if (format === "ics") {
       return res.send(value)
     }
 
