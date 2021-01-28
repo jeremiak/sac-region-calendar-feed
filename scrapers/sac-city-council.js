@@ -6,7 +6,7 @@ const url =
   "http://sacramento.granicus.com/ViewPublisherRSS.php?view_id=21&mode=agendas"
 
 //Tue, 15 Dec 2020 05:00:00 -0800
-const parseDate = timeParse("%a, %e %b %Y %_I:%M:%S %Z")
+const parseDate = timeParse("%a, %e %b %Y %_I:%M:%S -0800")
 
 async function scrapeSacCityCouncil() {
   const req = await fetch(url)
@@ -28,16 +28,20 @@ async function scrapeSacCityCouncil() {
     if (!isCityCouncilMeeting) return
 
     const date = parseDate(startDate)
+    // not really sure what's going on here, it seems like the council
+    // data source is 12 hours off and is throwing all the meetings
+    // into the early morning
+    const hours = date.getHours() + 12
     const start = [
       date.getFullYear(),
       date.getMonth() + 1,
       date.getDate(),
-      date.getHours(),
+      hours,
       date.getMinutes(),
     ]
 
     data.push({
-      title: title.replace('City Council', 'Sacramento City Council'),
+      title: title.replace("City Council", "Sacramento City Council"),
       description,
       url: link,
       uid: guid,
