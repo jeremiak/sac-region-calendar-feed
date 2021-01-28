@@ -31,7 +31,7 @@ async function scrapeSacCityCouncil() {
     // not really sure what's going on here, it seems like the council
     // data source is 12 hours off and is throwing all the meetings
     // into the early morning
-    const hours = date.getHours()
+    const hours = date.getHours() + 12
     const start = [
       date.getFullYear(),
       date.getMonth() + 1,
