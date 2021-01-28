@@ -1,56 +1,78 @@
-const cheerio = require("cheerio")
+// i can't find a public feed of the meetings, scheduled in advance
+// so i'm just copying the data from the calendar posted at
+// https://www.cityofsacramento.org/-/media/Corporate/Files/City-Clerk/City-Council-Meetings/1-2021-City-Council-Meeting-Calendar-FINAL-Adopted-12012020.pdf?la=en
 const { timeParse } = require("d3-time-format")
-const fetch = require("isomorphic-fetch")
 
-const url =
-  "http://sacramento.granicus.com/ViewPublisherRSS.php?view_id=21&mode=agendas"
+const meetings = [
+  "01/05/2021 5:00 PM",
+  "01/12/2021 2:00 PM",
+  "01/19/2021 2:00 PM",
+  "01/19/2021 5:00 PM",
+  "01/26/2021 5:00 PM",
+  "02/02/2021 5:00 PM",
+  "02/09/2021 2:00 PM",
+  "02/16/2021 5:00 PM",
+  "03/02/2021 5:00 PM",
+  "03/09/2021 2:00 PM",
+  "03/16/2021 2:00 PM",
+  "03/16/2021 5:00 PM",
+  "04/06/2021 5:00 PM",
+  "04/13/2021 2:00 PM",
+  "04/20/2021 2:00 PM",
+  "04/20/2021 5:00 PM",
+  "05/04/2021 5:00 PM",
+  "05/18/2021 2:00 PM",
+  "05/18/2021 5:00 PM",
+  "05/25/2021 2:00 PM",
+  "05/25/2021 5:00 PM",
+  "06/01/2021 5:00 PM",
+  "06/08/2021 2:00 PM",
+  "06/15/2021 2:00 PM",
+  "06/15/2021 5:00 PM",
+  "06/29/2021 2:00 PM",
+  "07/20/2021 2:00 PM",
+  "07/27/2021 5:00 PM",
+  "08/10/2021 2:00 PM",
+  "08/17/2021 2:00 PM",
+  "08/17/2021 5:00 PM",
+  "08/24/2021 5:00 PM",
+  "09/14/2021 2:00 PM",
+  "09/21/2021 2:00 PM",
+  "09/21/2021 5:00 PM",
+  "10/12/2021 2:00 PM",
+  "10/19/2021 2:00 PM",
+  "10/19/2021 5:00 PM",
+  "10/26/2021 2:00 PM",
+  "10/26/2021 5:00 PM",
+  "11/09/2021 2:00 PM",
+  "11/16/2021 2:00 PM",
+  "11/16/2021 5:00 PM",
+  "11/30/2021 5:00 PM",
+  "12/07/2021 2:00 PM",
+  "12/07/2021 5:00 PM",
+  "12/14/2021 2:00 PM",
+]
 
-//Tue, 15 Dec 2020 05:00:00 -0800
-const parseDate = timeParse("%a, %e %b %Y %_I:%M:%S -0800")
+const parseTime = timeParse("%m/%d/%Y %_I:%M %p")
 
 async function scrapeSacCityCouncil() {
-  const req = await fetch(url)
-  const text = await req.text()
-  const $ = cheerio.load(text, { xmlMode: true })
-  const items = $("item")
-
-  const data = []
-  items.each(function (index, item) {
-    const $$ = $(this)
-
-    const title = $$.find("title").text()
-    const description = $$.find("description").text()
-    const link = $$.find("link").text()
-    const guid = $$.find("guid").text()
-    const startDate = $$.find("pubDate").text()
-
-    const isCityCouncilMeeting = title.toLowerCase().includes("city council")
-    if (!isCityCouncilMeeting) return
-
-    const date = parseDate(startDate)
-    // not really sure what's going on here, it seems like the council
-    // data source is 12 hours off and is throwing all the meetings
-    // into the early morning
-    const hours = date.getHours() + 12
+  return meetings.map(function (meeting) {
+    const date = parseTime(meeting)
     const start = [
       date.getFullYear(),
       date.getMonth() + 1,
       date.getDate(),
-      hours,
+      date.getHours(),
       date.getMinutes(),
     ]
-
-    data.push({
-      title: title.replace("City Council", "Sacramento City Council"),
-      description,
-      url: link,
-      uid: guid,
+    return {
+      title: "Sacramento City Council",
+      description: "",
+      url: "",
       start,
       duration: { hours: 2 },
-    })
+    }
   })
-
-  return data
 }
 
 module.exports = scrapeSacCityCouncil
