@@ -28,7 +28,18 @@ app.get("/calendar.:format", (req, res) => {
     scrapeSJUSDBoard(),
   ]).then((data) => {
     const meetings = [].concat(...data)
-    const { error, value } = ics.createEvents(meetings)
+
+    // this just stomps all over any of the other description
+    // fields/values that have been used. This is mostly because
+    // Jeremia is lazy and didn't want to go change this in
+    // all the different scraper handlers
+    const meetingsWithDefaultDescription = meetings.map((m) => {
+      return {
+        ...m,
+        description: `Sign up to take notes for this meeting at https://www.socialjusticesac.org/meeting-sign-up`,
+      }
+    })
+    const { error, value } = ics.createEvents(meetingsWithDefaultDescription)
 
     if (error) {
       res.json({ error })
@@ -36,7 +47,7 @@ app.get("/calendar.:format", (req, res) => {
     }
 
     if (format === "json") {
-      return res.json(meetings)
+      return res.json(meetingsWithDefaultDescription)
     }
 
     if (format === "ics") {
