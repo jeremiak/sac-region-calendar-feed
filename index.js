@@ -34,9 +34,20 @@ app.get("/calendar.:format", (req, res) => {
     // Jeremia is lazy and didn't want to go change this in
     // all the different scraper handlers
     const meetingsWithDefaultDescription = meetings.map((m) => {
+      // meeting-name=Does this work&meeting-date=10-02-2021&meeting-time=7pm
+      const { start } = m
+      const meetingDate = `${start[1]}-${start[2]}-${start[0]}`
+      const hour = start[3] - 12
+      const ampm = hour > 0 ? "pm" : "am"
+      const meetingTime = `${hour > 0 ? hour : start[3]}${ampm}`
+      const base = `https://www.socialjusticesac.org/meeting-sign-up`
+      const url = `${base}?meeting-name=${encodeURIComponent(
+        m.title
+      )}&meeting-date=${meetingDate}&meeting-time=${meetingTime}`
       return {
         ...m,
         description: `Sign up to take notes for this meeting at https://www.socialjusticesac.org/meeting-sign-up`,
+        url,
       }
     })
     const { error, value } = ics.createEvents(meetingsWithDefaultDescription)
