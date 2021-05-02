@@ -41,9 +41,9 @@ async function scrapeSCUSDBoard() {
     ]
 
     data.push({
-      title: 'SCUSD Board Meeting',
+      title: "SCUSD Board Meeting",
       start,
-      description: "",
+      description: `Sign up to take notes for this meeting at https://bit.ly/3ubwNoF`,
       duration: { hours: 2 },
     })
   })

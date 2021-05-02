@@ -35,8 +35,11 @@ async function scrapeEGCityCouncil() {
     ]
 
     data.push({
-      title: title.replace('City Council Meeting', 'Elk Grove City Council Meeting'),
-      description,
+      title: title.replace(
+        "City Council Meeting",
+        "Elk Grove City Council Meeting"
+      ),
+      description: `Sign up to take notes for this meeting at https://bit.ly/3vzy0GM`,
       url,
       start,
       duration: { hours: 4 },

@@ -30,11 +30,11 @@ async function scrapeSJUSDBoard() {
         }
 
         meetings.push({
-            title,
-            description: '',
-            url: 'https://www.sanjuan.edu/site/Default.aspx?PageID=49724',
-            start,
-            duration,
+          title,
+          description: `Sign up to take notes for this meeting at https://bit.ly/3vz4gJW`,
+          url: "https://www.sanjuan.edu/site/Default.aspx?PageID=49724",
+          start,
+          duration,
         })
     })
 

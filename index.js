@@ -36,7 +36,7 @@ app.get("/calendar.:format", (req, res) => {
     const meetingsWithDefaultDescription = meetings.map((m) => {
       return {
         ...m,
-        description: `Sign up to take notes for this meeting at https://www.socialjusticesac.org/meeting-sign-up`,
+        // description: `Sign up to take notes for this meeting at https://www.socialjusticesac.org/meeting-sign-up`,
       }
     })
     const { error, value } = ics.createEvents(meetingsWithDefaultDescription)

@@ -67,7 +67,7 @@ async function scrapeSacCityCouncil() {
     ]
     return {
       title: "Sacramento City Council",
-      description: "",
+      description: `Sign up to take notes for this meeting at https://bit.ly/331NA1y`,
       url: "",
       start,
       duration: { hours: 2 },

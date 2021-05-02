@@ -38,10 +38,10 @@ async function scrapeEGUSDBoard() {
         }
 
         meetings.push({
-            title,
-            description: '',
-            start,
-            duration,
+          title,
+          description: `Sign up to take notes for this meeting at https://bit.ly/2RcMP3d`,
+          start,
+          duration,
         })
     })
 
