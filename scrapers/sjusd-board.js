@@ -17,6 +17,10 @@ async function scrapeSJUSDBoard() {
     lis.each(function() {
         const text = $(this).text().split(' (')[0]
         const parsedDate = parseDate(text)
+
+        // if a date can't be found, then we can't add it to the calendar
+        if (!parsedDate) return
+
         const title = 'San Juan USD Board Meeting'
         const start = [
             parsedDate.getFullYear(),

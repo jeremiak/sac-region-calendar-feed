@@ -16,33 +16,39 @@ async function scrapeEGUSDBoard() {
     const meetings = []
 
     lis.each(function(i, li) {
-        const text = $(li).text()
-        const [date, ...match] = text.match(/^(\w+\s\d+,\s\d{4})/)
-        const isRescheduled = text.includes('Rescheduled')
-        const isWorkshop = text.includes('Board Workshop')
+      const text = $(li).text()
 
-        if (isRescheduled) return
+      const match = text.match(/^(\w+\s\d+,\s\d{4})/)
 
-        const parsedDate = parseDate(date)
-        const title = isWorkshop ? 'EGUSD Board Workshop' : 'EGUSD Board Meeting'
-        const start = [
-            parsedDate.getFullYear(),
-            parsedDate.getMonth() + 1,
-            parsedDate.getDate(),
-            isWorkshop ? 8 : 18,
-            isWorkshop ? 30 : 0,
-        ]
-        const duration = {
-            hours: isWorkshop ? 6 : 4,
-            minutes: isWorkshop ? 30 : 0
-        }
+      // There was a date where the meetings weren't parsed because its a two date range. However, that date is in the past so let's just skip it and move on.
+      if (!match) return
 
-        meetings.push({
-          title,
-          description: `Sign up to take notes for this meeting at https://bit.ly/2RcMP3d`,
-          start,
-          duration,
-        })
+      const date = match[0]
+      const isRescheduled = text.includes("Rescheduled")
+      const isWorkshop = text.includes("Board Workshop")
+
+      if (isRescheduled) return
+
+      const parsedDate = parseDate(date)
+      const title = isWorkshop ? "EGUSD Board Workshop" : "EGUSD Board Meeting"
+      const start = [
+        parsedDate.getFullYear(),
+        parsedDate.getMonth() + 1,
+        parsedDate.getDate(),
+        isWorkshop ? 8 : 18,
+        isWorkshop ? 30 : 0,
+      ]
+      const duration = {
+        hours: isWorkshop ? 6 : 4,
+        minutes: isWorkshop ? 30 : 0,
+      }
+
+      meetings.push({
+        title,
+        description: `Sign up to take notes for this meeting at https://bit.ly/2RcMP3d`,
+        start,
+        duration,
+      })
     })
 
     return meetings
