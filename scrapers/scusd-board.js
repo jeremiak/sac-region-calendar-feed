@@ -19,15 +19,16 @@ async function scrapeSCUSDBoard() {
   const data = []
   items.each(function (index, item) {
     const $$ = $(this)
-
+    
     const title = $$.find("h2").text()
     const date = $$.find("time").text()
     const startTime = $$.find(".date-display-single").text()
-    const parsedDate = parseDate(date)
-    const parsedTime = parseTime(startTime)
-
     const isBOEMeeting = title.toLowerCase().includes("board of education")
     if (!isBOEMeeting) return
+
+    const cleanedStartTime = startTime.split(' -')[0]
+    const parsedDate = parseDate(date)
+    const parsedTime = parseTime(cleanedStartTime)
 
     parsedDate.setHours(parsedTime.getHours())
     parsedDate.setMinutes(parsedTime.getMinutes())
