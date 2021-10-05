@@ -67,7 +67,7 @@ async function scrapeSacCityCouncil() {
     ]
     return {
       title: "Sacramento City Council",
-      description: `Sign up to take notes for this meeting at https://bit.ly/331NA1y`,
+      description: `Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council`,
       url: "",
       start,
       duration: { hours: 2 },

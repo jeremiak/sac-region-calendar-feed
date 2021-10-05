@@ -35,7 +35,7 @@ async function scrapeSJUSDBoard() {
 
         meetings.push({
           title,
-          description: `Sign up to take notes for this meeting at https://bit.ly/3vz4gJW`,
+          description: `Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sjusd`,
           url: "https://www.sanjuan.edu/site/Default.aspx?PageID=49724",
           start,
           duration,

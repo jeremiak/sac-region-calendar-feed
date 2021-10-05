@@ -39,7 +39,7 @@ async function scrapeEGCityCouncil() {
         "City Council Meeting",
         "Elk Grove City Council Meeting"
       ),
-      description: `Sign up to take notes for this meeting at https://bit.ly/3vzy0GM`,
+      description: `Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-eg-city-council`,
       url,
       start,
       duration: { hours: 4 },

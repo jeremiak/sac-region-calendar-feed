@@ -45,7 +45,7 @@ async function scrapeEGUSDBoard() {
 
       meetings.push({
         title,
-        description: `Sign up to take notes for this meeting at https://bit.ly/2RcMP3d`,
+        description: `Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-egusd`,
         start,
         duration,
       })

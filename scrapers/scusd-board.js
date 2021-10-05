@@ -44,7 +44,7 @@ async function scrapeSCUSDBoard() {
     data.push({
       title: "SCUSD Board Meeting",
       start,
-      description: `Sign up to take notes for this meeting at https://bit.ly/3ubwNoF`,
+      description: `Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-scusd`,
       duration: { hours: 2 },
     })
   })

@@ -37,7 +37,7 @@ async function scrapeSacBoardOfSupervisors() {
 
     data.push({
       title: "Sac County Board of Supervisors Meeting",
-      description: `Sign up to take notes for this meeting at https://bit.ly/3xCXzsf`,
+      description: `Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-bos`,
       url: link,
       uid: guid,
       start,
