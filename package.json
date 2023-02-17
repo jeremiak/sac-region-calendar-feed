@@ -1,24 +1,24 @@
 {
-  "name": "sac-region-calendar-feed",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "start": "node index.js",
-    "dev": "nodemon index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "CC-BY-SA",
-  "dependencies": {
-    "cheerio": "^1.0.0-rc.5",
-    "d3-time-format": "^3.0.0",
-    "express": "^4.17.1",
-    "ics": "^2.26.2",
-    "isomorphic-fetch": "^3.0.0"
-  },
-  "devDependencies": {
-    "nodemon": "^2.0.6"
-  }
+    "name": "sac-region-calendar-feed",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "scrape": "node scrape.js",
+        "start": "node index.js",
+        "dev": "netlify dev",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "CC-BY-SA",
+    "dependencies": {
+        "cheerio": "^1.0.0-rc.5",
+        "d3-time-format": "^3.0.0",
+        "ics": "^2.26.2",
+        "isomorphic-fetch": "^3.0.0"
+    },
+    "devDependencies": {
+        "netlify-cli": "^12.12.0"
+    }
 }

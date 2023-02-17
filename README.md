@@ -5,7 +5,7 @@ Scrape calendars from [regional governmental bodies](https://github.com/jeremiak
 ## Getting started
 
 0. `npm install`
-1. `npm start`
+1. `npm run dev`
 2. You can check out the `.ics` file at [http://localhost:3000/calendar.ics](http://localhost:3000/calendar.ics)
 
 ## Scrapers
