@@ -3,7 +3,7 @@ name: Scrape calendars and write data files
 on:
   workflow_dispatch:
   schedule:
-  - cron: '0 20 * * 2*'
+  - cron: '0 20 * * 2'
 
 jobs:
   run:
