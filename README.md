@@ -10,6 +10,8 @@ Scrape calendars from [regional governmental bodies](https://github.com/jeremiak
 
 ## Scrapers
 
+[![Scrape calendars and write data files](https://github.com/jeremiak/sac-region-calendar-feed/actions/workflows/scrape.yml/badge.svg)](https://github.com/jeremiak/sac-region-calendar-feed/actions/workflows/scrape.yml)
+
 Each "scraper" is represented within the `scrapers/` directory as a single file. It is expected that each file exports a function that returns a promise. That promise should fulfill with an array of objects, each representing a calendar event and structured as follows:
 
 ```
