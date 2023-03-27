@@ -13,7 +13,8 @@
     ],
     "duration": {
       "hours": 2
-    }
+    },
+    "startInputType": "utc"
   },
   {
     "title": "Sac County Board of Supervisors Meeting",
@@ -29,7 +30,8 @@
     ],
     "duration": {
       "hours": 2
-    }
+    },
+    "startInputType": "utc"
   },
   {
     "title": "Sac County Board of Supervisors Meeting",
@@ -45,7 +47,8 @@
     ],
     "duration": {
       "hours": 2
-    }
+    },
+    "startInputType": "utc"
   },
   {
     "title": "Sac County Board of Supervisors Meeting",
@@ -61,7 +64,8 @@
     ],
     "duration": {
       "hours": 2
-    }
+    },
+    "startInputType": "utc"
   },
   {
     "title": "Sac County Board of Supervisors Meeting",
@@ -77,7 +81,8 @@
     ],
     "duration": {
       "hours": 2
-    }
+    },
+    "startInputType": "utc"
   },
   {
     "title": "Sacramento City Council",
@@ -86,14 +91,15 @@
     "start": [
       2021,
       1,
-      5,
-      17,
+      6,
+      1,
       0
     ],
     "duration": {
       "hours": 2
     },
-    "uid": "37a115b7-6b9c-47c0-8972-3d9d1f942fab"
+    "startInputType": "utc",
+    "uid": "596b8e99-7a9f-4f31-bca0-ab24be073450"
   },
   {
     "title": "Sacramento City Council",
@@ -103,1149 +109,779 @@
       2021,
       1,
       12,
-      14,
-      0
-    ],
-    "duration": {
-      "hours": 2
-    },
-    "uid": "6f4b0f63-8684-4b3d-bc76-5ed4e23cb8ac"
-  },
-  {
-    "title": "Sacramento City Council",
-    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
-    "url": "",
-    "start": [
-      2021,
-      1,
-      19,
-      14,
-      0
-    ],
-    "duration": {
-      "hours": 2
-    },
-    "uid": "52a120a9-b25d-4409-96cf-e3bd78fb9e5f"
-  },
-  {
-    "title": "Sacramento City Council",
-    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
-    "url": "",
-    "start": [
-      2021,
-      1,
-      19,
-      17,
-      0
-    ],
-    "duration": {
-      "hours": 2
-    },
-    "uid": "dd46b999-465f-471d-8626-4adfbd2b21cd"
-  },
-  {
-    "title": "Sacramento City Council",
-    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
-    "url": "",
-    "start": [
-      2021,
-      1,
-      26,
-      17,
-      0
-    ],
-    "duration": {
-      "hours": 2
-    },
-    "uid": "18d1c23c-f4dc-4f42-89e4-0395d0e3939c"
-  },
-  {
-    "title": "Sacramento City Council",
-    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
-    "url": "",
-    "start": [
-      2021,
-      2,
-      2,
-      17,
-      0
-    ],
-    "duration": {
-      "hours": 2
-    },
-    "uid": "b5063071-9adb-453b-b6af-b0f5203c4d86"
-  },
-  {
-    "title": "Sacramento City Council",
-    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
-    "url": "",
-    "start": [
-      2021,
-      2,
-      9,
-      14,
-      0
-    ],
-    "duration": {
-      "hours": 2
-    },
-    "uid": "004be8d6-5e8e-4dde-a50a-12947c3fd881"
-  },
-  {
-    "title": "Sacramento City Council",
-    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
-    "url": "",
-    "start": [
-      2021,
-      2,
-      16,
-      17,
-      0
-    ],
-    "duration": {
-      "hours": 2
-    },
-    "uid": "ddd932ef-9135-4f7a-87f1-4ee8c09ecee6"
-  },
-  {
-    "title": "Sacramento City Council",
-    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
-    "url": "",
-    "start": [
-      2021,
-      3,
-      2,
-      17,
-      0
-    ],
-    "duration": {
-      "hours": 2
-    },
-    "uid": "f020bba2-17fe-40ba-869a-cc7f903bf130"
-  },
-  {
-    "title": "Sacramento City Council",
-    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
-    "url": "",
-    "start": [
-      2021,
-      3,
-      9,
-      14,
-      0
-    ],
-    "duration": {
-      "hours": 2
-    },
-    "uid": "dd855f22-332d-4411-9b67-65d68e6bdd53"
-  },
-  {
-    "title": "Sacramento City Council",
-    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
-    "url": "",
-    "start": [
-      2021,
-      3,
-      16,
-      14,
-      0
-    ],
-    "duration": {
-      "hours": 2
-    },
-    "uid": "2f5132b7-143c-4c64-930a-5fbe7d6ef104"
-  },
-  {
-    "title": "Sacramento City Council",
-    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
-    "url": "",
-    "start": [
-      2021,
-      3,
-      16,
-      17,
-      0
-    ],
-    "duration": {
-      "hours": 2
-    },
-    "uid": "618db5ba-e4e6-4f85-b477-5fe6ccad6efa"
-  },
-  {
-    "title": "Sacramento City Council",
-    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
-    "url": "",
-    "start": [
-      2021,
-      4,
-      6,
-      17,
-      0
-    ],
-    "duration": {
-      "hours": 2
-    },
-    "uid": "a267a8f2-5c73-430e-8a0e-7cfcb534aeef"
-  },
-  {
-    "title": "Sacramento City Council",
-    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
-    "url": "",
-    "start": [
-      2021,
-      4,
-      13,
-      14,
-      0
-    ],
-    "duration": {
-      "hours": 2
-    },
-    "uid": "d55b6ec8-96e3-4aff-932b-984bac7b7a07"
-  },
-  {
-    "title": "Sacramento City Council",
-    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
-    "url": "",
-    "start": [
-      2021,
-      4,
-      20,
-      14,
-      0
-    ],
-    "duration": {
-      "hours": 2
-    },
-    "uid": "036eb1c2-e41a-4bb5-914d-62a98ead3a3c"
-  },
-  {
-    "title": "Sacramento City Council",
-    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
-    "url": "",
-    "start": [
-      2021,
-      4,
-      20,
-      17,
-      0
-    ],
-    "duration": {
-      "hours": 2
-    },
-    "uid": "12061b6c-1efd-4684-8999-8901538dff58"
-  },
-  {
-    "title": "Sacramento City Council",
-    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
-    "url": "",
-    "start": [
-      2021,
-      5,
-      4,
-      17,
-      0
-    ],
-    "duration": {
-      "hours": 2
-    },
-    "uid": "3dabf1ff-5d5f-46e1-a4fe-82b1670ebb27"
-  },
-  {
-    "title": "Sacramento City Council",
-    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
-    "url": "",
-    "start": [
-      2021,
-      5,
-      18,
-      14,
-      0
-    ],
-    "duration": {
-      "hours": 2
-    },
-    "uid": "97200d49-6ea6-4ebd-bdf3-8ecc23330843"
-  },
-  {
-    "title": "Sacramento City Council",
-    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
-    "url": "",
-    "start": [
-      2021,
-      5,
-      18,
-      17,
-      0
-    ],
-    "duration": {
-      "hours": 2
-    },
-    "uid": "68c2596c-d878-4c7d-9a45-3e261fa4150b"
-  },
-  {
-    "title": "Sacramento City Council",
-    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
-    "url": "",
-    "start": [
-      2021,
-      5,
-      25,
-      14,
-      0
-    ],
-    "duration": {
-      "hours": 2
-    },
-    "uid": "6ee8b992-641c-4e88-89ab-a05a547d9c0e"
-  },
-  {
-    "title": "Sacramento City Council",
-    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
-    "url": "",
-    "start": [
-      2021,
-      5,
-      25,
-      17,
-      0
-    ],
-    "duration": {
-      "hours": 2
-    },
-    "uid": "5b902b53-bd45-4897-8dc0-fc42760d1326"
-  },
-  {
-    "title": "Sacramento City Council",
-    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
-    "url": "",
-    "start": [
-      2021,
-      6,
-      1,
-      17,
-      0
-    ],
-    "duration": {
-      "hours": 2
-    },
-    "uid": "99849ee3-29fe-4e01-b296-5e796573fe3b"
-  },
-  {
-    "title": "Sacramento City Council",
-    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
-    "url": "",
-    "start": [
-      2021,
-      6,
-      8,
-      14,
-      0
-    ],
-    "duration": {
-      "hours": 2
-    },
-    "uid": "47f32c75-c167-4bc3-95f8-d5154f47c0b1"
-  },
-  {
-    "title": "Sacramento City Council",
-    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
-    "url": "",
-    "start": [
-      2021,
-      6,
-      15,
-      14,
-      0
-    ],
-    "duration": {
-      "hours": 2
-    },
-    "uid": "7475f2b9-0237-4f76-ad81-4e0c43daa0d9"
-  },
-  {
-    "title": "Sacramento City Council",
-    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
-    "url": "",
-    "start": [
-      2021,
-      6,
-      15,
-      17,
-      0
-    ],
-    "duration": {
-      "hours": 2
-    },
-    "uid": "53be6b39-620e-4aeb-8afa-19a99c2646d9"
-  },
-  {
-    "title": "Sacramento City Council",
-    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
-    "url": "",
-    "start": [
-      2021,
-      6,
-      29,
-      14,
-      0
-    ],
-    "duration": {
-      "hours": 2
-    },
-    "uid": "32b06c1d-8f12-4d03-aa9e-87adadb322cd"
-  },
-  {
-    "title": "Sacramento City Council",
-    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
-    "url": "",
-    "start": [
-      2021,
-      7,
-      20,
-      14,
-      0
-    ],
-    "duration": {
-      "hours": 2
-    },
-    "uid": "f1f536a1-03a5-4ade-8594-ac00783fc6dc"
-  },
-  {
-    "title": "Sacramento City Council",
-    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
-    "url": "",
-    "start": [
-      2021,
-      7,
-      27,
-      17,
-      0
-    ],
-    "duration": {
-      "hours": 2
-    },
-    "uid": "9140c1fe-cace-4698-b383-6f7661464231"
-  },
-  {
-    "title": "Sacramento City Council",
-    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
-    "url": "",
-    "start": [
-      2021,
-      8,
-      10,
-      14,
-      0
-    ],
-    "duration": {
-      "hours": 2
-    },
-    "uid": "58a08b77-1f7c-4bd7-a8f4-4b211444a20d"
-  },
-  {
-    "title": "Sacramento City Council",
-    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
-    "url": "",
-    "start": [
-      2021,
-      8,
-      17,
-      14,
-      0
-    ],
-    "duration": {
-      "hours": 2
-    },
-    "uid": "4e756c7f-9976-4c31-afcd-d63cfab2ec36"
-  },
-  {
-    "title": "Sacramento City Council",
-    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
-    "url": "",
-    "start": [
-      2021,
-      8,
-      17,
-      17,
-      0
-    ],
-    "duration": {
-      "hours": 2
-    },
-    "uid": "df96155b-4d2e-459d-b1f8-69f75d7e1145"
-  },
-  {
-    "title": "Sacramento City Council",
-    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
-    "url": "",
-    "start": [
-      2021,
-      8,
-      24,
-      17,
-      0
-    ],
-    "duration": {
-      "hours": 2
-    },
-    "uid": "a2b0db09-f3a2-48c6-9139-0f273e6053b3"
-  },
-  {
-    "title": "Sacramento City Council",
-    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
-    "url": "",
-    "start": [
-      2021,
-      9,
-      14,
-      14,
-      0
-    ],
-    "duration": {
-      "hours": 2
-    },
-    "uid": "bf646a6b-2ba3-4997-8c3f-89ff9a7224d2"
-  },
-  {
-    "title": "Sacramento City Council",
-    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
-    "url": "",
-    "start": [
-      2021,
-      9,
-      21,
-      14,
-      0
-    ],
-    "duration": {
-      "hours": 2
-    },
-    "uid": "8a8b89ae-9121-43bd-a69b-3f87653d3c5b"
-  },
-  {
-    "title": "Sacramento City Council",
-    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
-    "url": "",
-    "start": [
-      2021,
-      9,
-      21,
-      17,
-      0
-    ],
-    "duration": {
-      "hours": 2
-    },
-    "uid": "bdb7ddb2-713a-4efe-93de-37b6ca0b4122"
-  },
-  {
-    "title": "Sacramento City Council",
-    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
-    "url": "",
-    "start": [
-      2021,
-      10,
-      12,
-      14,
-      0
-    ],
-    "duration": {
-      "hours": 2
-    },
-    "uid": "93fccdaf-8bfd-4adf-8bb4-35ace564d321"
-  },
-  {
-    "title": "Sacramento City Council",
-    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
-    "url": "",
-    "start": [
-      2021,
-      10,
-      19,
-      14,
-      0
-    ],
-    "duration": {
-      "hours": 2
-    },
-    "uid": "fde42c58-e53a-4022-b05b-974310ff9946"
-  },
-  {
-    "title": "Sacramento City Council",
-    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
-    "url": "",
-    "start": [
-      2021,
-      10,
-      19,
-      17,
-      0
-    ],
-    "duration": {
-      "hours": 2
-    },
-    "uid": "2f4434cc-0e06-41d1-8823-f1c6c2afaa1a"
-  },
-  {
-    "title": "Sacramento City Council",
-    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
-    "url": "",
-    "start": [
-      2021,
-      10,
-      26,
-      14,
-      0
-    ],
-    "duration": {
-      "hours": 2
-    },
-    "uid": "9c7b720a-a0e6-47c5-ae8a-ec3cbb629a28"
-  },
-  {
-    "title": "Sacramento City Council",
-    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
-    "url": "",
-    "start": [
-      2021,
-      10,
-      26,
-      17,
-      0
-    ],
-    "duration": {
-      "hours": 2
-    },
-    "uid": "8d284310-cb0c-483e-a774-bd1603b23c03"
-  },
-  {
-    "title": "Sacramento City Council",
-    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
-    "url": "",
-    "start": [
-      2021,
-      11,
-      9,
-      14,
-      0
-    ],
-    "duration": {
-      "hours": 2
-    },
-    "uid": "a949523f-9c62-4984-9023-8dfec3dda613"
-  },
-  {
-    "title": "Sacramento City Council",
-    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
-    "url": "",
-    "start": [
-      2021,
-      11,
-      16,
-      14,
-      0
-    ],
-    "duration": {
-      "hours": 2
-    },
-    "uid": "0c217d28-29d1-4dfc-b6a9-15a964894275"
-  },
-  {
-    "title": "Sacramento City Council",
-    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
-    "url": "",
-    "start": [
-      2021,
-      11,
-      16,
-      17,
-      0
-    ],
-    "duration": {
-      "hours": 2
-    },
-    "uid": "3b8520d9-8689-4839-a8de-ef8efbb4ade9"
-  },
-  {
-    "title": "Sacramento City Council",
-    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
-    "url": "",
-    "start": [
-      2021,
-      11,
-      30,
-      17,
-      0
-    ],
-    "duration": {
-      "hours": 2
-    },
-    "uid": "3e7c98d4-8526-4629-b659-bb114372cd20"
-  },
-  {
-    "title": "Sacramento City Council",
-    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
-    "url": "",
-    "start": [
-      2021,
-      12,
-      7,
-      14,
-      0
-    ],
-    "duration": {
-      "hours": 2
-    },
-    "uid": "81e15f0c-b04a-40fc-9527-fd857ab4a3c7"
-  },
-  {
-    "title": "Sacramento City Council",
-    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
-    "url": "",
-    "start": [
-      2021,
-      12,
-      7,
-      17,
-      0
-    ],
-    "duration": {
-      "hours": 2
-    },
-    "uid": "183ab310-ba7a-49ad-aa4d-5ab6e1d214fc"
-  },
-  {
-    "title": "Sacramento City Council",
-    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
-    "url": "",
-    "start": [
-      2021,
-      12,
-      14,
-      14,
-      0
-    ],
-    "duration": {
-      "hours": 2
-    },
-    "uid": "9b11b5d7-17bf-45ae-b87c-d8b082db6068"
-  },
-  {
-    "title": "Sacramento City Council",
-    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
-    "url": "",
-    "start": [
-      2023,
-      2,
-      21,
-      17,
-      0
-    ],
-    "duration": {
-      "hours": 2
-    },
-    "uid": "d2ab96a2-3bd4-4a27-a081-adb1f6482ad0"
-  },
-  {
-    "title": "Sacramento City Council",
-    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
-    "url": "",
-    "start": [
-      2023,
-      3,
-      7,
-      17,
-      0
-    ],
-    "duration": {
-      "hours": 2
-    },
-    "uid": "88beee53-a14a-46f3-8986-7fc7028996c8"
-  },
-  {
-    "title": "Sacramento City Council",
-    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
-    "url": "",
-    "start": [
-      2023,
-      3,
-      14,
-      17,
-      0
-    ],
-    "duration": {
-      "hours": 2
-    },
-    "uid": "98852ae4-1c11-456d-93c8-8de75c122e4b"
-  },
-  {
-    "title": "Sacramento City Council",
-    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
-    "url": "",
-    "start": [
-      2023,
-      3,
-      21,
-      17,
-      0
-    ],
-    "duration": {
-      "hours": 2
-    },
-    "uid": "784df636-81a0-4d01-a16b-9f661c334df0"
-  },
-  {
-    "title": "Sacramento City Council",
-    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
-    "url": "",
-    "start": [
-      2023,
-      3,
-      28,
-      17,
-      0
-    ],
-    "duration": {
-      "hours": 2
-    },
-    "uid": "58e4796e-c4df-48d6-aacf-7e0452270f28"
-  },
-  {
-    "title": "Sacramento City Council",
-    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
-    "url": "",
-    "start": [
-      2023,
-      4,
-      4,
-      17,
-      0
-    ],
-    "duration": {
-      "hours": 2
-    },
-    "uid": "41e35114-fb33-4f54-9365-a4103efa82cb"
-  },
-  {
-    "title": "Sacramento City Council",
-    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
-    "url": "",
-    "start": [
-      2023,
-      4,
-      11,
-      17,
-      0
-    ],
-    "duration": {
-      "hours": 2
-    },
-    "uid": "d42d751a-545d-4314-860d-ee3e1bead55e"
-  },
-  {
-    "title": "Sacramento City Council",
-    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
-    "url": "",
-    "start": [
-      2023,
-      4,
-      18,
-      17,
-      0
-    ],
-    "duration": {
-      "hours": 2
-    },
-    "uid": "c1dd3bcb-1bfa-4cce-b15a-716b4891feea"
-  },
-  {
-    "title": "Sacramento City Council",
-    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
-    "url": "",
-    "start": [
-      2023,
-      5,
-      2,
-      17,
-      0
-    ],
-    "duration": {
-      "hours": 2
-    },
-    "uid": "36c562db-48f1-4fc9-af49-be6edf7d64a7"
-  },
-  {
-    "title": "Sacramento City Council",
-    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
-    "url": "",
-    "start": [
-      2023,
-      5,
-      9,
-      17,
-      0
-    ],
-    "duration": {
-      "hours": 2
-    },
-    "uid": "f3b3852f-3bfd-4dad-9cff-21a610cf9ff8"
-  },
-  {
-    "title": "Sacramento City Council",
-    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
-    "url": "",
-    "start": [
-      2023,
-      5,
-      16,
-      17,
-      0
-    ],
-    "duration": {
-      "hours": 2
-    },
-    "uid": "530c740a-5538-4745-a889-e1fabc46516d"
-  },
-  {
-    "title": "Sacramento City Council",
-    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
-    "url": "",
-    "start": [
-      2023,
-      5,
-      23,
-      17,
-      0
-    ],
-    "duration": {
-      "hours": 2
-    },
-    "uid": "5b9436d3-cc54-49fa-9d8b-45f09c438a40"
-  },
-  {
-    "title": "Sacramento City Council",
-    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
-    "url": "",
-    "start": [
-      2023,
-      5,
-      30,
-      17,
-      0
-    ],
-    "duration": {
-      "hours": 2
-    },
-    "uid": "1adeb9d0-51c1-44f8-b2a0-ce63ed1e02e1"
-  },
-  {
-    "title": "Sacramento City Council",
-    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
-    "url": "",
-    "start": [
-      2023,
-      6,
-      13,
-      17,
-      0
-    ],
-    "duration": {
-      "hours": 2
-    },
-    "uid": "83b3178f-ac4c-4d01-a08f-96fc8b505967"
-  },
-  {
-    "title": "Sacramento City Council",
-    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
-    "url": "",
-    "start": [
-      2023,
-      6,
-      20,
-      17,
-      0
-    ],
-    "duration": {
-      "hours": 2
-    },
-    "uid": "b3471e7c-fee1-4021-a742-18889fd1afb0"
-  },
-  {
-    "title": "Sacramento City Council",
-    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
-    "url": "",
-    "start": [
-      2023,
-      6,
-      27,
-      17,
-      0
-    ],
-    "duration": {
-      "hours": 2
-    },
-    "uid": "a03ba6b6-94e0-41f2-b685-cc304e903f4d"
-  },
-  {
-    "title": "Sacramento City Council",
-    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
-    "url": "",
-    "start": [
-      2023,
-      7,
-      25,
-      17,
-      0
-    ],
-    "duration": {
-      "hours": 2
-    },
-    "uid": "47e33b3d-1be8-4b1e-82a6-f5f7f4654580"
-  },
-  {
-    "title": "Sacramento City Council",
-    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
-    "url": "",
-    "start": [
-      2023,
-      8,
-      8,
-      17,
-      0
-    ],
-    "duration": {
-      "hours": 2
-    },
-    "uid": "be7c8f81-c4a7-4834-87fb-acc209c23802"
-  },
-  {
-    "title": "Sacramento City Council",
-    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
-    "url": "",
-    "start": [
-      2023,
-      8,
-      15,
-      17,
-      0
-    ],
-    "duration": {
-      "hours": 2
-    },
-    "uid": "2c311dbd-7374-43e1-9d81-831ac6568b44"
-  },
-  {
-    "title": "Sacramento City Council",
-    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
-    "url": "",
-    "start": [
-      2023,
-      8,
       22,
-      17,
       0
     ],
     "duration": {
       "hours": 2
     },
-    "uid": "03e4aa84-988f-43ce-9064-ba1e79d92d3c"
+    "startInputType": "utc",
+    "uid": "d93bd6ed-3e72-48a8-bebf-0764fdc83fad"
   },
   {
     "title": "Sacramento City Council",
     "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
     "url": "",
     "start": [
-      2023,
-      8,
-      29,
-      17,
-      0
-    ],
-    "duration": {
-      "hours": 2
-    },
-    "uid": "0c687bf3-04ad-45af-b5bc-15347262dda6"
-  },
-  {
-    "title": "Sacramento City Council",
-    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
-    "url": "",
-    "start": [
-      2023,
-      9,
-      5,
-      17,
-      0
-    ],
-    "duration": {
-      "hours": 2
-    },
-    "uid": "7982d225-8e15-4f66-8bd7-6b41970ead93"
-  },
-  {
-    "title": "Sacramento City Council",
-    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
-    "url": "",
-    "start": [
-      2023,
-      9,
-      12,
-      17,
-      0
-    ],
-    "duration": {
-      "hours": 2
-    },
-    "uid": "5acaa012-b284-4d4a-8786-1c748f315795"
-  },
-  {
-    "title": "Sacramento City Council",
-    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
-    "url": "",
-    "start": [
-      2023,
-      9,
+      2021,
+      1,
       19,
-      17,
+      22,
       0
     ],
     "duration": {
       "hours": 2
     },
-    "uid": "8e88d59b-2503-4d73-b65d-d9d7b03ac703"
+    "startInputType": "utc",
+    "uid": "ba99d234-4ce2-41c3-95e5-a57c562d08dd"
   },
   {
     "title": "Sacramento City Council",
     "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
     "url": "",
     "start": [
-      2023,
+      2021,
+      1,
+      20,
+      1,
+      0
+    ],
+    "duration": {
+      "hours": 2
+    },
+    "startInputType": "utc",
+    "uid": "681f746c-75a9-45db-96b3-0b4d8f7358e3"
+  },
+  {
+    "title": "Sacramento City Council",
+    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
+    "url": "",
+    "start": [
+      2021,
+      1,
+      27,
+      1,
+      0
+    ],
+    "duration": {
+      "hours": 2
+    },
+    "startInputType": "utc",
+    "uid": "15c888fb-1fe6-40f4-9995-ee7af3bb9a9c"
+  },
+  {
+    "title": "Sacramento City Council",
+    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
+    "url": "",
+    "start": [
+      2021,
+      2,
+      3,
+      1,
+      0
+    ],
+    "duration": {
+      "hours": 2
+    },
+    "startInputType": "utc",
+    "uid": "36f9d8d8-aec0-4274-9e3c-8a09bf18ebcd"
+  },
+  {
+    "title": "Sacramento City Council",
+    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
+    "url": "",
+    "start": [
+      2021,
+      2,
       9,
-      26,
-      17,
+      22,
       0
     ],
     "duration": {
       "hours": 2
     },
-    "uid": "cbdb9e14-7704-4e40-9347-9242bc500caf"
+    "startInputType": "utc",
+    "uid": "1901076e-9f45-4ca5-b9ce-2fc4ac7dc4c2"
   },
   {
     "title": "Sacramento City Council",
     "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
     "url": "",
     "start": [
-      2023,
-      10,
+      2021,
+      2,
+      17,
+      1,
+      0
+    ],
+    "duration": {
+      "hours": 2
+    },
+    "startInputType": "utc",
+    "uid": "2b05146e-140c-4f4f-bae6-95b1718d2d08"
+  },
+  {
+    "title": "Sacramento City Council",
+    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
+    "url": "",
+    "start": [
+      2021,
+      3,
+      3,
+      1,
+      0
+    ],
+    "duration": {
+      "hours": 2
+    },
+    "startInputType": "utc",
+    "uid": "599e5ef4-a174-480c-b9bd-637fc1b96ae4"
+  },
+  {
+    "title": "Sacramento City Council",
+    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
+    "url": "",
+    "start": [
+      2021,
+      3,
+      9,
+      22,
+      0
+    ],
+    "duration": {
+      "hours": 2
+    },
+    "startInputType": "utc",
+    "uid": "834146b9-b622-4161-b74a-bbb07672d149"
+  },
+  {
+    "title": "Sacramento City Council",
+    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
+    "url": "",
+    "start": [
+      2021,
+      3,
+      16,
+      21,
+      0
+    ],
+    "duration": {
+      "hours": 2
+    },
+    "startInputType": "utc",
+    "uid": "6a085e21-ba78-4c4f-9900-865b03e8753e"
+  },
+  {
+    "title": "Sacramento City Council",
+    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
+    "url": "",
+    "start": [
+      2021,
       3,
       17,
+      0,
       0
     ],
     "duration": {
       "hours": 2
     },
-    "uid": "fdaa09be-bd37-4187-90bd-f5a1be38d016"
+    "startInputType": "utc",
+    "uid": "5796e3d3-b5bf-4753-a5f3-1aae82ad9f12"
+  },
+  {
+    "title": "Sacramento City Council",
+    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
+    "url": "",
+    "start": [
+      2021,
+      4,
+      7,
+      0,
+      0
+    ],
+    "duration": {
+      "hours": 2
+    },
+    "startInputType": "utc",
+    "uid": "55874e1a-66c2-4b51-8b63-bfd74ef04d8a"
+  },
+  {
+    "title": "Sacramento City Council",
+    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
+    "url": "",
+    "start": [
+      2021,
+      4,
+      13,
+      21,
+      0
+    ],
+    "duration": {
+      "hours": 2
+    },
+    "startInputType": "utc",
+    "uid": "a0d53a7a-db98-4929-b61d-7e0bf3f09d21"
+  },
+  {
+    "title": "Sacramento City Council",
+    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
+    "url": "",
+    "start": [
+      2021,
+      4,
+      20,
+      21,
+      0
+    ],
+    "duration": {
+      "hours": 2
+    },
+    "startInputType": "utc",
+    "uid": "97a7820a-a4a0-4983-81e7-ed94749f69f0"
+  },
+  {
+    "title": "Sacramento City Council",
+    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
+    "url": "",
+    "start": [
+      2021,
+      4,
+      21,
+      0,
+      0
+    ],
+    "duration": {
+      "hours": 2
+    },
+    "startInputType": "utc",
+    "uid": "da4737c9-809a-409f-b40d-c53546706573"
+  },
+  {
+    "title": "Sacramento City Council",
+    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
+    "url": "",
+    "start": [
+      2021,
+      5,
+      5,
+      0,
+      0
+    ],
+    "duration": {
+      "hours": 2
+    },
+    "startInputType": "utc",
+    "uid": "6a50cb02-64af-449a-b92d-85f2febf6dbc"
+  },
+  {
+    "title": "Sacramento City Council",
+    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
+    "url": "",
+    "start": [
+      2021,
+      5,
+      18,
+      21,
+      0
+    ],
+    "duration": {
+      "hours": 2
+    },
+    "startInputType": "utc",
+    "uid": "608e804c-c1fc-4e29-a58a-267fc16daefe"
+  },
+  {
+    "title": "Sacramento City Council",
+    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
+    "url": "",
+    "start": [
+      2021,
+      5,
+      19,
+      0,
+      0
+    ],
+    "duration": {
+      "hours": 2
+    },
+    "startInputType": "utc",
+    "uid": "20cc0898-72cc-47ce-8aee-b6b7c50fac69"
+  },
+  {
+    "title": "Sacramento City Council",
+    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
+    "url": "",
+    "start": [
+      2021,
+      5,
+      25,
+      21,
+      0
+    ],
+    "duration": {
+      "hours": 2
+    },
+    "startInputType": "utc",
+    "uid": "2521b0f2-cbe8-45eb-97b9-e6d5f03b1d30"
+  },
+  {
+    "title": "Sacramento City Council",
+    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
+    "url": "",
+    "start": [
+      2021,
+      5,
+      26,
+      0,
+      0
+    ],
+    "duration": {
+      "hours": 2
+    },
+    "startInputType": "utc",
+    "uid": "60b17375-edf6-41fb-924f-9df0ea634ff3"
+  },
+  {
+    "title": "Sacramento City Council",
+    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
+    "url": "",
+    "start": [
+      2021,
+      6,
+      2,
+      0,
+      0
+    ],
+    "duration": {
+      "hours": 2
+    },
+    "startInputType": "utc",
+    "uid": "98d59574-1290-49f6-b5d8-c54d4daa9a10"
+  },
+  {
+    "title": "Sacramento City Council",
+    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
+    "url": "",
+    "start": [
+      2021,
+      6,
+      8,
+      21,
+      0
+    ],
+    "duration": {
+      "hours": 2
+    },
+    "startInputType": "utc",
+    "uid": "87d6e3e4-a179-423c-8ee1-629bafc724ba"
+  },
+  {
+    "title": "Sacramento City Council",
+    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
+    "url": "",
+    "start": [
+      2021,
+      6,
+      15,
+      21,
+      0
+    ],
+    "duration": {
+      "hours": 2
+    },
+    "startInputType": "utc",
+    "uid": "b79850ac-7a9d-4503-b7dc-3bf32deb0370"
+  },
+  {
+    "title": "Sacramento City Council",
+    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
+    "url": "",
+    "start": [
+      2021,
+      6,
+      16,
+      0,
+      0
+    ],
+    "duration": {
+      "hours": 2
+    },
+    "startInputType": "utc",
+    "uid": "b2d8db5b-2710-4830-a197-ba57e5c9a5fc"
+  },
+  {
+    "title": "Sacramento City Council",
+    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
+    "url": "",
+    "start": [
+      2021,
+      6,
+      29,
+      21,
+      0
+    ],
+    "duration": {
+      "hours": 2
+    },
+    "startInputType": "utc",
+    "uid": "5696b196-56c3-4d90-9cfb-99f9ed47a2fc"
+  },
+  {
+    "title": "Sacramento City Council",
+    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
+    "url": "",
+    "start": [
+      2021,
+      7,
+      20,
+      21,
+      0
+    ],
+    "duration": {
+      "hours": 2
+    },
+    "startInputType": "utc",
+    "uid": "5b01815b-a183-4fbb-b612-4b198603181e"
+  },
+  {
+    "title": "Sacramento City Council",
+    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
+    "url": "",
+    "start": [
+      2021,
+      7,
+      28,
+      0,
+      0
+    ],
+    "duration": {
+      "hours": 2
+    },
+    "startInputType": "utc",
+    "uid": "e8753ba9-b339-48ea-b0de-9beff7b4b9f4"
+  },
+  {
+    "title": "Sacramento City Council",
+    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
+    "url": "",
+    "start": [
+      2021,
+      8,
+      10,
+      21,
+      0
+    ],
+    "duration": {
+      "hours": 2
+    },
+    "startInputType": "utc",
+    "uid": "a582ac7b-45d3-4692-8b0a-0966d1447ab7"
+  },
+  {
+    "title": "Sacramento City Council",
+    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
+    "url": "",
+    "start": [
+      2021,
+      8,
+      17,
+      21,
+      0
+    ],
+    "duration": {
+      "hours": 2
+    },
+    "startInputType": "utc",
+    "uid": "2c2c215f-e033-4ff7-b5ba-8558a7f72129"
+  },
+  {
+    "title": "Sacramento City Council",
+    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
+    "url": "",
+    "start": [
+      2021,
+      8,
+      18,
+      0,
+      0
+    ],
+    "duration": {
+      "hours": 2
+    },
+    "startInputType": "utc",
+    "uid": "e9705d7a-a9d1-4a96-bdf7-f2389e54718b"
+  },
+  {
+    "title": "Sacramento City Council",
+    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
+    "url": "",
+    "start": [
+      2021,
+      8,
+      25,
+      0,
+      0
+    ],
+    "duration": {
+      "hours": 2
+    },
+    "startInputType": "utc",
+    "uid": "9934d530-a10f-457f-b073-46a560afd3d7"
+  },
+  {
+    "title": "Sacramento City Council",
+    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
+    "url": "",
+    "start": [
+      2021,
+      9,
+      14,
+      21,
+      0
+    ],
+    "duration": {
+      "hours": 2
+    },
+    "startInputType": "utc",
+    "uid": "eab5c2d6-9015-4368-be41-945e559e230e"
+  },
+  {
+    "title": "Sacramento City Council",
+    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
+    "url": "",
+    "start": [
+      2021,
+      9,
+      21,
+      21,
+      0
+    ],
+    "duration": {
+      "hours": 2
+    },
+    "startInputType": "utc",
+    "uid": "5784d038-489d-4b1a-b265-a1444b9bf130"
+  },
+  {
+    "title": "Sacramento City Council",
+    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
+    "url": "",
+    "start": [
+      2021,
+      9,
+      22,
+      0,
+      0
+    ],
+    "duration": {
+      "hours": 2
+    },
+    "startInputType": "utc",
+    "uid": "f56211b4-4923-4057-8470-0ca40d51b15a"
+  },
+  {
+    "title": "Sacramento City Council",
+    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
+    "url": "",
+    "start": [
+      2021,
+      10,
+      12,
+      21,
+      0
+    ],
+    "duration": {
+      "hours": 2
+    },
+    "startInputType": "utc",
+    "uid": "3fff4bad-14bc-4048-9db1-7c13e8a896e0"
+  },
+  {
+    "title": "Sacramento City Council",
+    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
+    "url": "",
+    "start": [
+      2021,
+      10,
+      19,
+      21,
+      0
+    ],
+    "duration": {
+      "hours": 2
+    },
+    "startInputType": "utc",
+    "uid": "ce1efb81-b174-4c35-b925-0f438978fea9"
+  },
+  {
+    "title": "Sacramento City Council",
+    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
+    "url": "",
+    "start": [
+      2021,
+      10,
+      20,
+      0,
+      0
+    ],
+    "duration": {
+      "hours": 2
+    },
+    "startInputType": "utc",
+    "uid": "93077e7c-19f1-4b74-abe2-0ba1078f0e7d"
+  },
+  {
+    "title": "Sacramento City Council",
+    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
+    "url": "",
+    "start": [
+      2021,
+      10,
+      26,
+      21,
+      0
+    ],
+    "duration": {
+      "hours": 2
+    },
+    "startInputType": "utc",
+    "uid": "1163d969-db99-485a-af1b-379e42e020c8"
+  },
+  {
+    "title": "Sacramento City Council",
+    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
+    "url": "",
+    "start": [
+      2021,
+      10,
+      27,
+      0,
+      0
+    ],
+    "duration": {
+      "hours": 2
+    },
+    "startInputType": "utc",
+    "uid": "e5d5f4af-16ef-4e96-bdd5-394a12e96649"
+  },
+  {
+    "title": "Sacramento City Council",
+    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
+    "url": "",
+    "start": [
+      2021,
+      11,
+      9,
+      22,
+      0
+    ],
+    "duration": {
+      "hours": 2
+    },
+    "startInputType": "utc",
+    "uid": "3a892bbd-9aed-465d-ab24-5247965199e2"
+  },
+  {
+    "title": "Sacramento City Council",
+    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
+    "url": "",
+    "start": [
+      2021,
+      11,
+      16,
+      22,
+      0
+    ],
+    "duration": {
+      "hours": 2
+    },
+    "startInputType": "utc",
+    "uid": "1f797925-8313-4083-8cf0-7bd963445076"
+  },
+  {
+    "title": "Sacramento City Council",
+    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
+    "url": "",
+    "start": [
+      2021,
+      11,
+      17,
+      1,
+      0
+    ],
+    "duration": {
+      "hours": 2
+    },
+    "startInputType": "utc",
+    "uid": "aa354b0a-8870-4e90-86b4-bf8363a19f0f"
+  },
+  {
+    "title": "Sacramento City Council",
+    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
+    "url": "",
+    "start": [
+      2021,
+      12,
+      1,
+      1,
+      0
+    ],
+    "duration": {
+      "hours": 2
+    },
+    "startInputType": "utc",
+    "uid": "6ff94cf9-7a3f-4dc7-b6c9-d5fba55dc2ca"
+  },
+  {
+    "title": "Sacramento City Council",
+    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
+    "url": "",
+    "start": [
+      2021,
+      12,
+      7,
+      22,
+      0
+    ],
+    "duration": {
+      "hours": 2
+    },
+    "startInputType": "utc",
+    "uid": "11381952-1ea7-4ca7-adaf-1e74697cf77e"
+  },
+  {
+    "title": "Sacramento City Council",
+    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
+    "url": "",
+    "start": [
+      2021,
+      12,
+      8,
+      1,
+      0
+    ],
+    "duration": {
+      "hours": 2
+    },
+    "startInputType": "utc",
+    "uid": "b9ff95ce-5249-4b05-90f5-9ff4fef07aa5"
+  },
+  {
+    "title": "Sacramento City Council",
+    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
+    "url": "",
+    "start": [
+      2021,
+      12,
+      14,
+      22,
+      0
+    ],
+    "duration": {
+      "hours": 2
+    },
+    "startInputType": "utc",
+    "uid": "b7a77beb-ec66-4987-95f9-3d4d352f0525"
   },
   {
     "title": "Sacramento City Council",
@@ -1253,15 +889,16 @@
     "url": "",
     "start": [
       2023,
-      10,
-      10,
-      17,
+      2,
+      22,
+      1,
       0
     ],
     "duration": {
       "hours": 2
     },
-    "uid": "bff05c31-4ef6-42bc-a2cc-01c2256336ed"
+    "startInputType": "utc",
+    "uid": "070c3d2f-e6e7-4839-a568-1f687ee94984"
   },
   {
     "title": "Sacramento City Council",
@@ -1269,15 +906,16 @@
     "url": "",
     "start": [
       2023,
-      10,
-      17,
-      17,
+      3,
+      8,
+      1,
       0
     ],
     "duration": {
       "hours": 2
     },
-    "uid": "73ad58e0-37a8-48df-9592-2377bb14a80f"
+    "startInputType": "utc",
+    "uid": "40246854-c7de-4ee1-8bcc-237e8b5f7afc"
   },
   {
     "title": "Sacramento City Council",
@@ -1285,15 +923,169 @@
     "url": "",
     "start": [
       2023,
+      3,
+      15,
+      0,
+      0
+    ],
+    "duration": {
+      "hours": 2
+    },
+    "startInputType": "utc",
+    "uid": "c3267dd7-d381-4074-a8a5-751749a87d3a"
+  },
+  {
+    "title": "Sacramento City Council",
+    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
+    "url": "",
+    "start": [
+      2023,
+      3,
+      22,
+      0,
+      0
+    ],
+    "duration": {
+      "hours": 2
+    },
+    "startInputType": "utc",
+    "uid": "c3164b11-61e3-4885-aa11-14a2a7f6368e"
+  },
+  {
+    "title": "Sacramento City Council",
+    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
+    "url": "",
+    "start": [
+      2023,
+      3,
+      29,
+      0,
+      0
+    ],
+    "duration": {
+      "hours": 2
+    },
+    "startInputType": "utc",
+    "uid": "66412799-902a-4d8b-947c-02739d72080f"
+  },
+  {
+    "title": "Sacramento City Council",
+    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
+    "url": "",
+    "start": [
+      2023,
+      4,
+      5,
+      0,
+      0
+    ],
+    "duration": {
+      "hours": 2
+    },
+    "startInputType": "utc",
+    "uid": "6e487af5-ac48-43da-a2a0-853c980c9f79"
+  },
+  {
+    "title": "Sacramento City Council",
+    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
+    "url": "",
+    "start": [
+      2023,
+      4,
+      12,
+      0,
+      0
+    ],
+    "duration": {
+      "hours": 2
+    },
+    "startInputType": "utc",
+    "uid": "b157b463-5281-4a43-abc7-3e793d52e347"
+  },
+  {
+    "title": "Sacramento City Council",
+    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
+    "url": "",
+    "start": [
+      2023,
+      4,
+      19,
+      0,
+      0
+    ],
+    "duration": {
+      "hours": 2
+    },
+    "startInputType": "utc",
+    "uid": "091847c7-28a0-4a83-a886-bed8a86baf31"
+  },
+  {
+    "title": "Sacramento City Council",
+    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
+    "url": "",
+    "start": [
+      2023,
+      5,
+      3,
+      0,
+      0
+    ],
+    "duration": {
+      "hours": 2
+    },
+    "startInputType": "utc",
+    "uid": "a941ddef-c830-48a3-bd21-bd09f4e37a15"
+  },
+  {
+    "title": "Sacramento City Council",
+    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
+    "url": "",
+    "start": [
+      2023,
+      5,
       10,
+      0,
+      0
+    ],
+    "duration": {
+      "hours": 2
+    },
+    "startInputType": "utc",
+    "uid": "71f57def-4090-42a9-9edf-3b39e295c01d"
+  },
+  {
+    "title": "Sacramento City Council",
+    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
+    "url": "",
+    "start": [
+      2023,
+      5,
+      17,
+      0,
+      0
+    ],
+    "duration": {
+      "hours": 2
+    },
+    "startInputType": "utc",
+    "uid": "128e0ae0-1ee4-4140-925e-156b0bffaf7d"
+  },
+  {
+    "title": "Sacramento City Council",
+    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
+    "url": "",
+    "start": [
+      2023,
+      5,
       24,
-      17,
+      0,
       0
     ],
     "duration": {
       "hours": 2
     },
-    "uid": "42464f73-a5c8-4f6a-9e7f-b2a504bec4a4"
+    "startInputType": "utc",
+    "uid": "3e93a5a4-dcbc-4136-8d28-bbcd2e64a002"
   },
   {
     "title": "Sacramento City Council",
@@ -1301,15 +1093,16 @@
     "url": "",
     "start": [
       2023,
-      10,
+      5,
       31,
-      17,
+      0,
       0
     ],
     "duration": {
       "hours": 2
     },
-    "uid": "ffbb5346-4c72-4acd-a8ce-6dc91766a255"
+    "startInputType": "utc",
+    "uid": "59eb063a-ad69-481d-8d6f-0b426f1cf0fb"
   },
   {
     "title": "Sacramento City Council",
@@ -1317,15 +1110,271 @@
     "url": "",
     "start": [
       2023,
-      11,
+      6,
       14,
-      17,
+      0,
       0
     ],
     "duration": {
       "hours": 2
     },
-    "uid": "c8929c90-d711-4323-99d4-2fadbf987292"
+    "startInputType": "utc",
+    "uid": "e6134a43-0496-4ab8-b549-46e74cf745c2"
+  },
+  {
+    "title": "Sacramento City Council",
+    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
+    "url": "",
+    "start": [
+      2023,
+      6,
+      21,
+      0,
+      0
+    ],
+    "duration": {
+      "hours": 2
+    },
+    "startInputType": "utc",
+    "uid": "21ec3854-7157-49b2-b771-4c9eaf91f375"
+  },
+  {
+    "title": "Sacramento City Council",
+    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
+    "url": "",
+    "start": [
+      2023,
+      6,
+      28,
+      0,
+      0
+    ],
+    "duration": {
+      "hours": 2
+    },
+    "startInputType": "utc",
+    "uid": "fb83a58b-f8ab-48e2-a804-110d65309fb6"
+  },
+  {
+    "title": "Sacramento City Council",
+    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
+    "url": "",
+    "start": [
+      2023,
+      7,
+      26,
+      0,
+      0
+    ],
+    "duration": {
+      "hours": 2
+    },
+    "startInputType": "utc",
+    "uid": "bd40cbdf-7b5a-46bd-993a-771964bf0672"
+  },
+  {
+    "title": "Sacramento City Council",
+    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
+    "url": "",
+    "start": [
+      2023,
+      8,
+      9,
+      0,
+      0
+    ],
+    "duration": {
+      "hours": 2
+    },
+    "startInputType": "utc",
+    "uid": "3f38748a-7284-4e38-8ac0-f8ceb0abc820"
+  },
+  {
+    "title": "Sacramento City Council",
+    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
+    "url": "",
+    "start": [
+      2023,
+      8,
+      16,
+      0,
+      0
+    ],
+    "duration": {
+      "hours": 2
+    },
+    "startInputType": "utc",
+    "uid": "bf8849dd-8074-45ed-aa16-4f3e93e3ab93"
+  },
+  {
+    "title": "Sacramento City Council",
+    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
+    "url": "",
+    "start": [
+      2023,
+      8,
+      23,
+      0,
+      0
+    ],
+    "duration": {
+      "hours": 2
+    },
+    "startInputType": "utc",
+    "uid": "281e0dfc-b283-43f2-af53-62010c165bd9"
+  },
+  {
+    "title": "Sacramento City Council",
+    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
+    "url": "",
+    "start": [
+      2023,
+      8,
+      30,
+      0,
+      0
+    ],
+    "duration": {
+      "hours": 2
+    },
+    "startInputType": "utc",
+    "uid": "d8be0d45-ff77-4232-8d3f-5d43becffdca"
+  },
+  {
+    "title": "Sacramento City Council",
+    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
+    "url": "",
+    "start": [
+      2023,
+      9,
+      6,
+      0,
+      0
+    ],
+    "duration": {
+      "hours": 2
+    },
+    "startInputType": "utc",
+    "uid": "4966fa62-9eea-44f3-9b3f-c77803b9745a"
+  },
+  {
+    "title": "Sacramento City Council",
+    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
+    "url": "",
+    "start": [
+      2023,
+      9,
+      13,
+      0,
+      0
+    ],
+    "duration": {
+      "hours": 2
+    },
+    "startInputType": "utc",
+    "uid": "006afd64-9a9b-4713-9848-f852fa5339d8"
+  },
+  {
+    "title": "Sacramento City Council",
+    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
+    "url": "",
+    "start": [
+      2023,
+      9,
+      20,
+      0,
+      0
+    ],
+    "duration": {
+      "hours": 2
+    },
+    "startInputType": "utc",
+    "uid": "f810f4b5-0203-45b3-9dd4-d8600f1d8c58"
+  },
+  {
+    "title": "Sacramento City Council",
+    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
+    "url": "",
+    "start": [
+      2023,
+      9,
+      27,
+      0,
+      0
+    ],
+    "duration": {
+      "hours": 2
+    },
+    "startInputType": "utc",
+    "uid": "3890a5bb-8975-4bda-8017-a7094d054795"
+  },
+  {
+    "title": "Sacramento City Council",
+    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
+    "url": "",
+    "start": [
+      2023,
+      10,
+      4,
+      0,
+      0
+    ],
+    "duration": {
+      "hours": 2
+    },
+    "startInputType": "utc",
+    "uid": "7b995cfb-47b3-46a1-aa44-aac4cc857946"
+  },
+  {
+    "title": "Sacramento City Council",
+    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
+    "url": "",
+    "start": [
+      2023,
+      10,
+      11,
+      0,
+      0
+    ],
+    "duration": {
+      "hours": 2
+    },
+    "startInputType": "utc",
+    "uid": "79e9387a-7334-48bb-ac70-adb1c1e3a25d"
+  },
+  {
+    "title": "Sacramento City Council",
+    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
+    "url": "",
+    "start": [
+      2023,
+      10,
+      18,
+      0,
+      0
+    ],
+    "duration": {
+      "hours": 2
+    },
+    "startInputType": "utc",
+    "uid": "b942d602-c3ef-473d-998e-515f898437be"
+  },
+  {
+    "title": "Sacramento City Council",
+    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
+    "url": "",
+    "start": [
+      2023,
+      10,
+      25,
+      0,
+      0
+    ],
+    "duration": {
+      "hours": 2
+    },
+    "startInputType": "utc",
+    "uid": "dc90cdb5-f678-46b5-8c38-07c2ee7d406f"
   },
   {
     "title": "Sacramento City Council",
@@ -1334,14 +1383,49 @@
     "start": [
       2023,
       11,
-      28,
-      17,
+      1,
+      0,
       0
     ],
     "duration": {
       "hours": 2
     },
-    "uid": "816180cb-05c2-4348-8017-a8a27d881215"
+    "startInputType": "utc",
+    "uid": "fd980bc1-7225-4ffc-a3dd-0cd310fda5b1"
+  },
+  {
+    "title": "Sacramento City Council",
+    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
+    "url": "",
+    "start": [
+      2023,
+      11,
+      15,
+      1,
+      0
+    ],
+    "duration": {
+      "hours": 2
+    },
+    "startInputType": "utc",
+    "uid": "7c0accb9-58a2-4006-bbf4-deba2b8825a4"
+  },
+  {
+    "title": "Sacramento City Council",
+    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
+    "url": "",
+    "start": [
+      2023,
+      11,
+      29,
+      1,
+      0
+    ],
+    "duration": {
+      "hours": 2
+    },
+    "startInputType": "utc",
+    "uid": "bb542b6f-fc3c-4a87-9e69-98e355f17cec"
   },
   {
     "title": "Sacramento City Council",
@@ -1350,14 +1434,15 @@
     "start": [
       2023,
       12,
-      5,
-      17,
+      6,
+      1,
       0
     ],
     "duration": {
       "hours": 2
     },
-    "uid": "5ae7d4b6-9c06-4552-977e-6650e2b34d2f"
+    "startInputType": "utc",
+    "uid": "ef2062d6-74a7-48da-9b70-f169b407f1f6"
   },
   {
     "title": "Sacramento City Council",
@@ -1366,103 +1451,110 @@
     "start": [
       2023,
       12,
-      12,
-      17,
-      0
-    ],
-    "duration": {
-      "hours": 2
-    },
-    "uid": "fad9cce0-10ec-4948-bc11-43c17f7857e7"
-  },
-  {
-    "title": "SCUSD Board Meeting",
-    "start": [
-      2023,
-      4,
       13,
-      18,
-      30
+      1,
+      0
     ],
-    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-scusd",
     "duration": {
       "hours": 2
     },
-    "uid": "c36467b0-5804-41c8-86bb-8fb9532880a2"
+    "startInputType": "utc",
+    "uid": "930c3a5d-4b6e-4087-83e8-36caaf89c98b"
   },
   {
     "title": "SCUSD Board Meeting",
     "start": [
       2023,
       4,
-      27,
-      18,
+      14,
+      1,
       30
     ],
     "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-scusd",
     "duration": {
       "hours": 2
     },
-    "uid": "e7a1a5cf-7bc6-4310-9d48-8d45a6228e9a"
+    "startInputType": "utc",
+    "uid": "65b6df69-8f03-49a6-990a-f127e713e2fe"
   },
   {
     "title": "SCUSD Board Meeting",
     "start": [
       2023,
-      5,
       4,
-      18,
+      28,
+      1,
       30
     ],
     "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-scusd",
     "duration": {
       "hours": 2
     },
-    "uid": "a87f13ac-2bd5-48a8-a564-2240959cbfcc"
+    "startInputType": "utc",
+    "uid": "fe5d70bd-5266-49f2-834a-c178575c60d5"
   },
   {
     "title": "SCUSD Board Meeting",
     "start": [
       2023,
       5,
-      18,
-      18,
+      5,
+      1,
       30
     ],
     "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-scusd",
     "duration": {
       "hours": 2
     },
-    "uid": "27e65cb5-787e-4adf-9586-6b62698294f9"
+    "startInputType": "utc",
+    "uid": "a3de534e-4e4a-4612-adf8-8659f85045ab"
+  },
+  {
+    "title": "SCUSD Board Meeting",
+    "start": [
+      2023,
+      5,
+      19,
+      1,
+      30
+    ],
+    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-scusd",
+    "duration": {
+      "hours": 2
+    },
+    "startInputType": "utc",
+    "uid": "38ac6df4-3fdb-41c6-81ef-facf4ca22c78"
   },
   {
     "title": "SCUSD Board Meeting",
     "start": [
       2023,
       6,
-      8,
-      18,
+      9,
+      1,
       30
     ],
     "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-scusd",
     "duration": {
       "hours": 2
     },
-    "uid": "e0d51720-077b-41b9-8f85-62f3bf6cd92a"
+    "startInputType": "utc",
+    "uid": "b3eb87f6-1429-4987-b8d0-2df75f7861c2"
   },
   {
     "title": "SCUSD Board Meeting",
     "start": [
       2023,
       6,
-      22,
-      18,
+      23,
+      1,
       30
     ],
     "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-scusd",
     "duration": {
       "hours": 2
     },
-    "uid": "63572b65-974d-4fcd-86f0-d1b0295be3c5"
+    "startInputType": "utc",
+    "uid": "21418df8-2920-4580-a399-66e05b954123"
   }
 ]
