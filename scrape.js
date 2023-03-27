@@ -21,7 +21,13 @@ async function scrape() {
 
 
     const meetings = [].concat(...data)
-    const { error, value } = ics.createEvents(meetings)
+    const meetingsInTimezone = meetings.map(d => {
+        return {
+            ...d,
+            startOutputType: 'local'
+        }
+    })
+    const { error, value } = ics.createEvents(meetingsInTimezone)
 
     await fs.writeFile('./generated/calendar.ics', value)
     await fs.writeFile('./generated/calendar.json', JSON.stringify(meetings, null, 2))
