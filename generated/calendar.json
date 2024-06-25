@@ -17,6 +17,40 @@
     "startInputType": "utc"
   },
   {
+    "title": "Sac County Board of Supervisors Meeting",
+    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-bos",
+    "url": "http://saccounty.mhsoftware.com/ViewItem.html?integral=0&cal_item_id=4568&dtwhen=2460515",
+    "uid": "58d19d703a71dc087a0c623734b2a541-2bc412c3:18b7816708b:afb",
+    "start": [
+      2024,
+      7,
+      23,
+      16,
+      30
+    ],
+    "duration": {
+      "hours": 2
+    },
+    "startInputType": "utc"
+  },
+  {
+    "title": "Sac County Board of Supervisors Meeting",
+    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-bos",
+    "url": "http://saccounty.mhsoftware.com/ViewItem.html?integral=0&cal_item_id=4602&dtwhen=2460516",
+    "uid": "58d19d703a71dc087a0c623734b2a541-2bc412c3:18b7816708b:b25",
+    "start": [
+      2024,
+      7,
+      24,
+      21,
+      0
+    ],
+    "duration": {
+      "hours": 2
+    },
+    "startInputType": "utc"
+  },
+  {
     "title": "Sacramento City Council",
     "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-sac-city-council",
     "url": "",
@@ -31,7 +65,7 @@
       "hours": 2
     },
     "startInputType": "utc",
-    "uid": "5cc676b5-d09e-4445-8c67-140abc453307"
+    "uid": "d60f5b9a-e6a6-417a-9cb1-b021226b694b"
   },
   {
     "title": "Sacramento City Council",
@@ -48,7 +82,7 @@
       "hours": 2
     },
     "startInputType": "utc",
-    "uid": "91853d15-2514-4920-8945-c0cc67e981dc"
+    "uid": "6f36976b-3b42-4a25-b24f-38af2333a844"
   },
   {
     "title": "Sacramento City Council",
@@ -65,7 +99,7 @@
       "hours": 2
     },
     "startInputType": "utc",
-    "uid": "da4f10a1-448e-4ae7-a037-1b7257b0296a"
+    "uid": "3101d82a-6148-40fe-aa5a-8b89e13a6f6d"
   },
   {
     "title": "Sacramento City Council",
@@ -82,7 +116,7 @@
       "hours": 2
     },
     "startInputType": "utc",
-    "uid": "211f6f6e-9f71-4991-877f-9b590cfb01ed"
+    "uid": "8db44bfe-4774-4e31-a746-959648cce66a"
   },
   {
     "title": "Sacramento City Council",
@@ -99,7 +133,7 @@
       "hours": 2
     },
     "startInputType": "utc",
-    "uid": "a42e9554-e270-48ea-bae9-84f4df726f88"
+    "uid": "1e6307b3-bc6f-4fa3-9a91-dacdcb0e711a"
   },
   {
     "title": "Sacramento City Council",
@@ -116,7 +150,7 @@
       "hours": 2
     },
     "startInputType": "utc",
-    "uid": "a11fbb54-a2dc-44fa-b9a8-bf303fe1f36d"
+    "uid": "10c26685-a9fd-4ef3-956a-583a0d3b74dc"
   },
   {
     "title": "Sacramento City Council",
@@ -133,7 +167,7 @@
       "hours": 2
     },
     "startInputType": "utc",
-    "uid": "fef4cc7b-c1b2-46e8-957a-eaa34a18be30"
+    "uid": "ab98d92c-145f-4c45-abf7-5484c7d7fec4"
   },
   {
     "title": "Sacramento City Council",
@@ -150,7 +184,7 @@
       "hours": 2
     },
     "startInputType": "utc",
-    "uid": "8df4ea75-aa3a-4001-a04e-bcf409357559"
+    "uid": "f3c6daaf-2a64-46a8-921b-22fdbc8a22a1"
   },
   {
     "title": "Sacramento City Council",
@@ -167,7 +201,7 @@
       "hours": 2
     },
     "startInputType": "utc",
-    "uid": "c2011f6e-0de8-4f50-88f3-4de4c94bf0b3"
+    "uid": "95bb2781-be8d-4c0b-953e-725bd37c1ab0"
   },
   {
     "title": "Sacramento City Council",
@@ -184,7 +218,7 @@
       "hours": 2
     },
     "startInputType": "utc",
-    "uid": "9d49a5b3-409c-497a-9fec-adeaa3af466a"
+    "uid": "44900738-f42b-41ab-8304-850d076cbfc4"
   },
   {
     "title": "Sacramento City Council",
@@ -201,7 +235,7 @@
       "hours": 2
     },
     "startInputType": "utc",
-    "uid": "464dcddf-bc92-4736-a531-7b0bbaf1b8b3"
+    "uid": "84b6c354-00eb-47e0-9f49-70924d8831a7"
   },
   {
     "title": "Sacramento City Council",
@@ -218,7 +252,7 @@
       "hours": 2
     },
     "startInputType": "utc",
-    "uid": "8b2ba27f-ed87-4edf-a10e-eb9d173bbd0c"
+    "uid": "8cec90ba-c553-41e4-b552-18609e64d1dd"
   },
   {
     "title": "Sacramento City Council",
@@ -235,7 +269,7 @@
       "hours": 2
     },
     "startInputType": "utc",
-    "uid": "8b5d4b75-d761-43fb-a86e-1ce27f92d178"
+    "uid": "45a71640-140d-401d-9656-55a0c9f96768"
   },
   {
     "title": "Sacramento City Council",
@@ -252,7 +286,7 @@
       "hours": 2
     },
     "startInputType": "utc",
-    "uid": "c63fecfe-b9e6-4a12-b08e-761f7b2b6639"
+    "uid": "246aa09e-9c1e-4c68-b0fd-8c5fbb15953c"
   },
   {
     "title": "Sacramento City Council",
@@ -269,7 +303,7 @@
       "hours": 2
     },
     "startInputType": "utc",
-    "uid": "2d010409-4934-4182-8a24-c3cafdd653a4"
+    "uid": "b13bac58-f133-4566-9301-c72b9f374b78"
   },
   {
     "title": "Sacramento City Council",
@@ -286,7 +320,7 @@
       "hours": 2
     },
     "startInputType": "utc",
-    "uid": "1feba10c-a434-4d16-9093-712caf9c3264"
+    "uid": "e95c92af-6527-41ae-a8e5-b38743453a99"
   },
   {
     "title": "Sacramento City Council",
@@ -303,7 +337,7 @@
       "hours": 2
     },
     "startInputType": "utc",
-    "uid": "951e0040-3a44-4568-98c0-01f7ea73224b"
+    "uid": "f7e44ce7-2e3d-4a97-ab62-6fb01e504999"
   },
   {
     "title": "Sacramento City Council",
@@ -320,7 +354,7 @@
       "hours": 2
     },
     "startInputType": "utc",
-    "uid": "86f4e515-b156-4f53-994a-53b550894272"
+    "uid": "4ea471c2-c724-462a-9c8d-9a3cf94fcf41"
   },
   {
     "title": "Sacramento City Council",
@@ -337,7 +371,7 @@
       "hours": 2
     },
     "startInputType": "utc",
-    "uid": "986708e2-4020-4686-a8e5-bc77294f5e5b"
+    "uid": "ddb4eb23-5ee0-400c-bdc4-a20e0db2fb3f"
   },
   {
     "title": "Sacramento City Council",
@@ -354,7 +388,7 @@
       "hours": 2
     },
     "startInputType": "utc",
-    "uid": "8a71b8bc-0a04-4ac1-bbf5-685452a987e9"
+    "uid": "99f4dd76-7ee3-4686-be61-e53150c11ca2"
   },
   {
     "title": "Sacramento City Council",
@@ -371,7 +405,7 @@
       "hours": 2
     },
     "startInputType": "utc",
-    "uid": "cc81e861-a6c6-4443-9120-fde9040a1b77"
+    "uid": "aa0e9978-24c7-45e7-a1c2-1d6a46899df9"
   },
   {
     "title": "Sacramento City Council",
@@ -388,7 +422,7 @@
       "hours": 2
     },
     "startInputType": "utc",
-    "uid": "78ba89a2-62bb-4072-bea6-7c9a90e7e65a"
+    "uid": "8663a430-6ff3-4d91-bb24-232462a252ae"
   },
   {
     "title": "Sacramento City Council",
@@ -405,7 +439,7 @@
       "hours": 2
     },
     "startInputType": "utc",
-    "uid": "c69ef891-3b7a-4db8-96f3-063ebbf80281"
+    "uid": "25b7877c-f3ec-4b88-8485-671eb696e94d"
   },
   {
     "title": "Sacramento City Council",
@@ -422,7 +456,7 @@
       "hours": 2
     },
     "startInputType": "utc",
-    "uid": "6e6c725f-f21c-404e-9efd-94c931ccf9aa"
+    "uid": "6b220519-5544-4cb8-b82c-887a1fe2de91"
   },
   {
     "title": "Sacramento City Council",
@@ -439,7 +473,7 @@
       "hours": 2
     },
     "startInputType": "utc",
-    "uid": "8ac8ede5-7151-4ced-bae8-08fe90024e87"
+    "uid": "7b966458-b928-4910-a093-e08b22d23f08"
   },
   {
     "title": "Sacramento City Council",
@@ -456,7 +490,7 @@
       "hours": 2
     },
     "startInputType": "utc",
-    "uid": "fd265415-61f3-462c-8379-4882685cc403"
+    "uid": "d05fd58b-46f7-4f15-891f-ecf88b43319b"
   },
   {
     "title": "Sacramento City Council",
@@ -473,7 +507,7 @@
       "hours": 2
     },
     "startInputType": "utc",
-    "uid": "1190a973-5343-477e-8854-f96c944faeef"
+    "uid": "c59df68a-0828-4725-82c0-70a66ee64356"
   },
   {
     "title": "Sacramento City Council",
@@ -490,7 +524,7 @@
       "hours": 2
     },
     "startInputType": "utc",
-    "uid": "702ec436-0475-4fda-8673-0fa19dbf9a1a"
+    "uid": "5e9d14e4-2f7d-44f9-b0d2-ce68b0019cef"
   },
   {
     "title": "Sacramento City Council",
@@ -507,7 +541,7 @@
       "hours": 2
     },
     "startInputType": "utc",
-    "uid": "98171d02-2c0b-459e-80a1-6c98416321de"
+    "uid": "112ec620-00c7-40ee-b2ee-2aa604f92fc1"
   },
   {
     "title": "Sacramento City Council",
@@ -524,7 +558,7 @@
       "hours": 2
     },
     "startInputType": "utc",
-    "uid": "f4bab866-8d7b-42d8-99f0-1cdd6ac1b8cf"
+    "uid": "63bcc0d1-1bdd-42fa-bbf5-3729e3d4cd24"
   },
   {
     "title": "Sacramento City Council",
@@ -541,7 +575,7 @@
       "hours": 2
     },
     "startInputType": "utc",
-    "uid": "634517fa-d92f-429a-80a1-7b679018b238"
+    "uid": "afe26faf-2fa3-4be4-8952-e7912cded7fd"
   },
   {
     "title": "Sacramento City Council",
@@ -558,7 +592,7 @@
       "hours": 2
     },
     "startInputType": "utc",
-    "uid": "9a1e0d49-dcd6-4d86-909f-f74a65eb3627"
+    "uid": "1575e461-3ad5-41d5-974e-863a3e9c5da0"
   },
   {
     "title": "Sacramento City Council",
@@ -575,7 +609,7 @@
       "hours": 2
     },
     "startInputType": "utc",
-    "uid": "8fa90921-c39a-4350-b82e-4853482c95a3"
+    "uid": "7fec3ec6-0a6e-4fac-b57b-6ff94890310d"
   },
   {
     "title": "Sacramento City Council",
@@ -592,7 +626,7 @@
       "hours": 2
     },
     "startInputType": "utc",
-    "uid": "66f76fde-503c-4d23-bf64-0445061c1226"
+    "uid": "0f264833-7685-46e1-9425-0feefbce150b"
   },
   {
     "title": "Sacramento City Council",
@@ -609,7 +643,7 @@
       "hours": 2
     },
     "startInputType": "utc",
-    "uid": "224438a9-f5da-4239-b06f-74fc0e2229a7"
+    "uid": "c7c9c949-a878-4836-87ea-b8668006337d"
   },
   {
     "title": "Sacramento City Council",
@@ -626,7 +660,7 @@
       "hours": 2
     },
     "startInputType": "utc",
-    "uid": "b4426e90-6573-43b7-9f1c-d26077d7d37c"
+    "uid": "c3853e85-77b5-40e5-9470-d2fdfcf212da"
   },
   {
     "title": "Sacramento City Council",
@@ -643,7 +677,7 @@
       "hours": 2
     },
     "startInputType": "utc",
-    "uid": "3e905874-c64a-42fc-9e90-3ef35acc0299"
+    "uid": "5f3666a4-585d-47c5-adc1-6e62a9af6726"
   },
   {
     "title": "Sacramento City Council",
@@ -660,7 +694,7 @@
       "hours": 2
     },
     "startInputType": "utc",
-    "uid": "bc305301-216f-4207-ab9c-593105fdf078"
+    "uid": "b6511213-f6f1-4275-9cef-a15410591df9"
   },
   {
     "title": "Sacramento City Council",
@@ -677,7 +711,7 @@
       "hours": 2
     },
     "startInputType": "utc",
-    "uid": "e44605b3-71de-4f47-835e-0d02a8a2c84a"
+    "uid": "d2520f1a-8e20-4306-9d99-6b762797d940"
   },
   {
     "title": "Sacramento City Council",
@@ -694,7 +728,7 @@
       "hours": 2
     },
     "startInputType": "utc",
-    "uid": "f29bd8e1-9a3c-4f6e-bbfe-657007bdb14c"
+    "uid": "c38faa43-c26f-4deb-812a-c908ecacadf0"
   },
   {
     "title": "Sacramento City Council",
@@ -711,7 +745,7 @@
       "hours": 2
     },
     "startInputType": "utc",
-    "uid": "56459f40-6daa-46f7-a211-896c20aa0dd8"
+    "uid": "66a382c2-be60-4efa-9ae7-9affb66be626"
   },
   {
     "title": "Sacramento City Council",
@@ -728,7 +762,7 @@
       "hours": 2
     },
     "startInputType": "utc",
-    "uid": "1e9a11a3-ab1c-4091-96ba-3f3c9d7ad323"
+    "uid": "e54fe762-0bb9-4b5f-bfd3-214c7f17d5ba"
   },
   {
     "title": "Sacramento City Council",
@@ -745,7 +779,7 @@
       "hours": 2
     },
     "startInputType": "utc",
-    "uid": "6e4ac02a-6bee-40cd-8a21-c8a4f91e7ca7"
+    "uid": "a1e38a3a-c15d-4cd9-ad69-43f31a610621"
   },
   {
     "title": "Sacramento City Council",
@@ -762,7 +796,7 @@
       "hours": 2
     },
     "startInputType": "utc",
-    "uid": "bb1e6240-5363-47d1-a16c-18eb9014e6a6"
+    "uid": "3957691f-f0f9-4b07-9542-a281cfffbc42"
   },
   {
     "title": "Sacramento City Council",
@@ -779,7 +813,7 @@
       "hours": 2
     },
     "startInputType": "utc",
-    "uid": "e65317ac-90fd-4cb1-bd99-7d4dee8423fa"
+    "uid": "4a39d139-f775-4d49-8ede-75f6c20973a3"
   },
   {
     "title": "Sacramento City Council",
@@ -796,7 +830,7 @@
       "hours": 2
     },
     "startInputType": "utc",
-    "uid": "deccb505-2b76-43d3-91c7-169a9b0e3552"
+    "uid": "35c4a5ba-9454-4f3b-b2f6-2e118291c3f8"
   },
   {
     "title": "Sacramento City Council",
@@ -813,7 +847,7 @@
       "hours": 2
     },
     "startInputType": "utc",
-    "uid": "36999312-9034-464b-9ae6-e43c558b8892"
+    "uid": "1f57ed81-c36b-47ba-9a32-9d5c9ac22ab4"
   },
   {
     "title": "Sacramento City Council",
@@ -830,7 +864,7 @@
       "hours": 2
     },
     "startInputType": "utc",
-    "uid": "ada91c1a-2141-42b0-902e-4444b882543c"
+    "uid": "62e55def-cd57-41c8-9ca7-586a2e4a43b4"
   },
   {
     "title": "Sacramento City Council",
@@ -847,7 +881,7 @@
       "hours": 2
     },
     "startInputType": "utc",
-    "uid": "e6b1deed-1574-4633-b5a0-05557048616a"
+    "uid": "569a4976-2ee0-4c84-8dc5-860492a0441e"
   },
   {
     "title": "Sacramento City Council",
@@ -864,7 +898,7 @@
       "hours": 2
     },
     "startInputType": "utc",
-    "uid": "ce2bea48-3880-4ee8-afd8-c58ef529eca8"
+    "uid": "ef1ae940-94de-4d71-b7ff-b123fa37d7c2"
   },
   {
     "title": "Sacramento City Council",
@@ -881,7 +915,7 @@
       "hours": 2
     },
     "startInputType": "utc",
-    "uid": "8af0a0a8-bdca-4f75-be89-458ff13989e4"
+    "uid": "dee33f2e-dc67-4dd9-95e9-90fcde91bccb"
   },
   {
     "title": "Sacramento City Council",
@@ -898,7 +932,7 @@
       "hours": 2
     },
     "startInputType": "utc",
-    "uid": "79cd746e-4475-4956-b399-3868977ba236"
+    "uid": "e028b8a1-e11f-4325-8a52-eb8b5c10c2a7"
   },
   {
     "title": "Sacramento City Council",
@@ -915,7 +949,7 @@
       "hours": 2
     },
     "startInputType": "utc",
-    "uid": "24e0c053-7ad0-439d-afaf-5802d48c3976"
+    "uid": "cd08db49-406c-4fb5-bfe0-bd18c28b7b97"
   },
   {
     "title": "Sacramento City Council",
@@ -932,7 +966,7 @@
       "hours": 2
     },
     "startInputType": "utc",
-    "uid": "d18aefc4-c38d-45b6-8bd2-25f5a3257332"
+    "uid": "ae06180d-2165-41d1-a77c-735976c82f56"
   },
   {
     "title": "Sacramento City Council",
@@ -949,7 +983,7 @@
       "hours": 2
     },
     "startInputType": "utc",
-    "uid": "22685a21-4340-4f39-8970-faa2cc30736b"
+    "uid": "82ec9eb1-754e-4fed-9402-5806497f528a"
   },
   {
     "title": "Sacramento City Council",
@@ -966,7 +1000,7 @@
       "hours": 2
     },
     "startInputType": "utc",
-    "uid": "ae9c8b9c-0b32-4330-8d89-99941a0ee264"
+    "uid": "4e30f481-3c67-497e-b6d3-502f05c9792a"
   },
   {
     "title": "Sacramento City Council",
@@ -983,7 +1017,7 @@
       "hours": 2
     },
     "startInputType": "utc",
-    "uid": "0ebb5bad-0cfe-4fd9-a557-f984cd4d6882"
+    "uid": "d31e1aec-ce16-45bf-9f3f-4cc18abe9b51"
   },
   {
     "title": "Sacramento City Council",
@@ -1000,7 +1034,7 @@
       "hours": 2
     },
     "startInputType": "utc",
-    "uid": "95d49584-8503-400d-b4cb-bafc1d05fa92"
+    "uid": "3dec1cad-1891-4dc5-beb9-b21e25c40d66"
   },
   {
     "title": "Sacramento City Council",
@@ -1017,7 +1051,7 @@
       "hours": 2
     },
     "startInputType": "utc",
-    "uid": "eff10c5e-aeb1-4a05-9f22-dae7366aee03"
+    "uid": "e20ed7ad-f9b0-43e7-84ac-2ac64edbb4ed"
   },
   {
     "title": "Sacramento City Council",
@@ -1034,7 +1068,7 @@
       "hours": 2
     },
     "startInputType": "utc",
-    "uid": "4d1e5b81-bc3f-4622-9a38-8b50d29d988b"
+    "uid": "ff01f80f-09d9-47f1-a591-5415c5f9bf3d"
   },
   {
     "title": "Sacramento City Council",
@@ -1051,7 +1085,7 @@
       "hours": 2
     },
     "startInputType": "utc",
-    "uid": "9e188148-e4fb-4894-b8fe-52a3f5434656"
+    "uid": "881b0135-6345-4bce-b903-7b1d2e908f1b"
   },
   {
     "title": "Sacramento City Council",
@@ -1068,7 +1102,7 @@
       "hours": 2
     },
     "startInputType": "utc",
-    "uid": "2533866f-a302-4aa7-b4b1-200f8ccf8b43"
+    "uid": "b166c3ae-8c24-47d3-8895-accc8adab60d"
   },
   {
     "title": "Sacramento City Council",
@@ -1085,7 +1119,7 @@
       "hours": 2
     },
     "startInputType": "utc",
-    "uid": "520f6582-004a-4cf6-a20b-bbe473bd824f"
+    "uid": "491d61c4-a916-4fc2-8c50-234b5b4fc5a6"
   },
   {
     "title": "Sacramento City Council",
@@ -1102,7 +1136,7 @@
       "hours": 2
     },
     "startInputType": "utc",
-    "uid": "0cc20ff8-6a9e-46f4-ba19-6bccbfbc1045"
+    "uid": "a0bee9bc-c14e-4565-a079-31ed6285c03a"
   },
   {
     "title": "Sacramento City Council",
@@ -1119,7 +1153,7 @@
       "hours": 2
     },
     "startInputType": "utc",
-    "uid": "27d38c93-e3b8-4a2f-9b5b-6e68cee0a125"
+    "uid": "b5b5cb1b-ca27-4beb-a375-ac8916da326a"
   },
   {
     "title": "Sacramento City Council",
@@ -1136,7 +1170,7 @@
       "hours": 2
     },
     "startInputType": "utc",
-    "uid": "4edd2209-9a10-42a4-abdf-04c97a8dd443"
+    "uid": "fe6744a9-f83b-492b-bfec-6232efe81228"
   },
   {
     "title": "Sacramento City Council",
@@ -1153,7 +1187,7 @@
       "hours": 2
     },
     "startInputType": "utc",
-    "uid": "91bb1344-4a16-4f7c-95a8-99a96b6c4db6"
+    "uid": "0ebc27e2-3a58-411f-8e0c-819ec7d405f9"
   },
   {
     "title": "Sacramento City Council",
@@ -1170,7 +1204,7 @@
       "hours": 2
     },
     "startInputType": "utc",
-    "uid": "cc03c218-710f-4a17-a108-8fdbfa50b4c3"
+    "uid": "8777f373-f5a0-4615-b183-e600c2fc13f8"
   },
   {
     "title": "Sacramento City Council",
@@ -1187,7 +1221,7 @@
       "hours": 2
     },
     "startInputType": "utc",
-    "uid": "b66bb4dd-b61c-4ebd-b535-3f2eea04b5a3"
+    "uid": "67ec8a2a-6162-4802-bae5-601fd4eceee3"
   },
   {
     "title": "Sacramento City Council",
@@ -1204,7 +1238,7 @@
       "hours": 2
     },
     "startInputType": "utc",
-    "uid": "235b07c2-a9ad-4b43-a987-41920669cf59"
+    "uid": "b8a33673-e04b-4c9b-9ba6-5bcdba1733cc"
   },
   {
     "title": "Sacramento City Council",
@@ -1221,7 +1255,7 @@
       "hours": 2
     },
     "startInputType": "utc",
-    "uid": "d5a029e0-0470-4c4e-b7b9-72a47f294c1a"
+    "uid": "4114ebd3-d2d4-423d-8c17-4178bb70fd1b"
   },
   {
     "title": "Sacramento City Council",
@@ -1238,7 +1272,7 @@
       "hours": 2
     },
     "startInputType": "utc",
-    "uid": "68bd3ff7-74cf-4233-a752-0667b8f292fb"
+    "uid": "9ee2ceff-0df5-49e0-8811-ee6b3abfd490"
   },
   {
     "title": "Sacramento City Council",
@@ -1255,7 +1289,7 @@
       "hours": 2
     },
     "startInputType": "utc",
-    "uid": "b493e4dc-9528-4eac-a8d0-ecd592c3adbe"
+    "uid": "4223d53a-bd2b-43c8-a523-d54ecdd2f4ac"
   },
   {
     "title": "Sacramento City Council",
@@ -1272,7 +1306,7 @@
       "hours": 2
     },
     "startInputType": "utc",
-    "uid": "df978dfe-6b66-4cc1-996a-f995b6636995"
+    "uid": "3d2ebd6d-2fe1-4e5a-b577-747b7fc01feb"
   },
   {
     "title": "Sacramento City Council",
@@ -1289,7 +1323,7 @@
       "hours": 2
     },
     "startInputType": "utc",
-    "uid": "c9ca255f-20f6-45eb-84a7-8964a90b977f"
+    "uid": "872e3571-2dca-4a6f-8fe6-728a14123ae6"
   },
   {
     "title": "Sacramento City Council",
@@ -1306,7 +1340,7 @@
       "hours": 2
     },
     "startInputType": "utc",
-    "uid": "124ca781-0cdb-4687-9c41-f8fbfb8c31cf"
+    "uid": "3c77f2e1-73a0-49c7-b063-6139515dc1af"
   },
   {
     "title": "Sacramento City Council",
@@ -1323,7 +1357,7 @@
       "hours": 2
     },
     "startInputType": "utc",
-    "uid": "553e0f45-465d-4ca2-bbce-afdefc9206b3"
+    "uid": "fa62749a-eae2-452c-9602-88139f3b791a"
   },
   {
     "title": "Sacramento City Council",
@@ -1340,7 +1374,7 @@
       "hours": 2
     },
     "startInputType": "utc",
-    "uid": "c0d5fde9-a634-4f6c-8ba2-80a41ce3b4c4"
+    "uid": "e258a66b-ebf2-4372-8600-73880bc2dcc1"
   },
   {
     "title": "Sacramento City Council",
@@ -1357,7 +1391,7 @@
       "hours": 2
     },
     "startInputType": "utc",
-    "uid": "c6ebf63d-417c-4a7b-835f-001f1c55b157"
+    "uid": "fd1054bd-73e7-4c65-ac0c-b29fe852dc35"
   },
   {
     "title": "Sacramento City Council",
@@ -1374,7 +1408,7 @@
       "hours": 2
     },
     "startInputType": "utc",
-    "uid": "bf1ab096-8064-47eb-bb6a-8222c646e0fd"
+    "uid": "76b741c0-5ddb-4e27-9ce6-e955b6300514"
   },
   {
     "title": "Sacramento City Council",
@@ -1391,22 +1425,6 @@
       "hours": 2
     },
     "startInputType": "utc",
-    "uid": "c0422c8d-6259-451b-86bb-71c3d9b45e57"
-  },
-  {
-    "title": "SCUSD Board Meeting",
-    "start": [
-      2024,
-      6,
-      21,
-      1,
-      0
-    ],
-    "description": "Sign up to take notes for this meeting at https://www.socialjusticesac.org/wix-scusd",
-    "duration": {
-      "hours": 2
-    },
-    "startInputType": "utc",
-    "uid": "b5a5c3e0-6cbe-4c67-9537-92ef667eddbc"
+    "uid": "e7312e42-4317-4097-8cfb-967bf393ff79"
   }
 ]
