@@ -5,20 +5,9 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:58d19d703a71dc087a0c623734b2a541--57476ea4:1931c6d9a93:-2b04
-SUMMARY:Sac County Board of Supervisors Meeting
-DTSTAMP:20250107T200500Z
-DTSTART:20250107T173000Z
-DESCRIPTION:Sign up to take notes for this meeting at https://www.socialjus
-	ticesac.org/wix-sac-bos
-URL:http://saccounty.mhsoftware.com/ViewItem.html?integral=0&cal_item_id=49
-	77&dtwhen=2460683
-DURATION:PT2H
-END:VEVENT
-BEGIN:VEVENT
 UID:58d19d703a71dc087a0c623734b2a541-2bc412c3:18b7816708b:b0c
 SUMMARY:Sac County Board of Supervisors Meeting
-DTSTAMP:20250107T200500Z
+DTSTAMP:20250114T200500Z
 DTSTART:20250128T173000Z
 DESCRIPTION:Sign up to take notes for this meeting at https://www.socialjus
 	ticesac.org/wix-sac-bos
@@ -29,7 +18,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:58d19d703a71dc087a0c623734b2a541-2bc412c3:18b7816708b:b2c
 SUMMARY:Sac County Board of Supervisors Meeting
-DTSTAMP:20250107T200500Z
+DTSTAMP:20250114T200500Z
 DTSTART:20250129T220000Z
 DESCRIPTION:Sign up to take notes for this meeting at https://www.socialjus
 	ticesac.org/wix-sac-bos
@@ -40,7 +29,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:58d19d703a71dc087a0c623734b2a541--7e9d8d43:18f4a85a44b:5749
 SUMMARY:Sac County Board of Supervisors Meeting
-DTSTAMP:20250107T200500Z
+DTSTAMP:20250114T200500Z
 DTSTART:20250204T173000Z
 DESCRIPTION:Sign up to take notes for this meeting at https://www.socialjus
 	ticesac.org/wix-sac-bos
@@ -49,775 +38,784 @@ URL:http://saccounty.mhsoftware.com/ViewItem.html?integral=0&cal_item_id=47
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:9b6ed90f-737b-4e80-a515-501159e0dd80
+UID:af5e4084-2a01-4ab0-a0cc-1e4294fcbe94
 SUMMARY:Sacramento City Council
-DTSTAMP:20250107T200500Z
+DTSTAMP:20250114T200500Z
 DTSTART:20210106T010000Z
 DESCRIPTION:Sign up to take notes for this meeting at https://www.socialjus
 	ticesac.org/wix-sac-city-council
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:932430a2-2e9b-4fc5-92f1-0280fefced71
+UID:6aed714c-bcf6-4387-a3d7-9788bf23c303
 SUMMARY:Sacramento City Council
-DTSTAMP:20250107T200500Z
+DTSTAMP:20250114T200500Z
 DTSTART:20210112T220000Z
 DESCRIPTION:Sign up to take notes for this meeting at https://www.socialjus
 	ticesac.org/wix-sac-city-council
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:6f36ddef-9db4-4cb0-aa0d-b2656161a694
+UID:3d90e53d-8137-4b40-9729-6fa5c32ea202
 SUMMARY:Sacramento City Council
-DTSTAMP:20250107T200500Z
+DTSTAMP:20250114T200500Z
 DTSTART:20210119T220000Z
 DESCRIPTION:Sign up to take notes for this meeting at https://www.socialjus
 	ticesac.org/wix-sac-city-council
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:8b386f32-a8e2-451c-b26c-f892f91f05f3
+UID:282a491e-a355-4c31-abb3-7a94ee2502a0
 SUMMARY:Sacramento City Council
-DTSTAMP:20250107T200500Z
+DTSTAMP:20250114T200500Z
 DTSTART:20210120T010000Z
 DESCRIPTION:Sign up to take notes for this meeting at https://www.socialjus
 	ticesac.org/wix-sac-city-council
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:1b124d0e-e076-4e92-b529-4de9a4bccda1
+UID:c58bbb28-a2e3-4cda-b240-313e49955e6d
 SUMMARY:Sacramento City Council
-DTSTAMP:20250107T200500Z
+DTSTAMP:20250114T200500Z
 DTSTART:20210127T010000Z
 DESCRIPTION:Sign up to take notes for this meeting at https://www.socialjus
 	ticesac.org/wix-sac-city-council
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:1473afc1-8c37-4e14-8fe3-d0840e286624
+UID:5f517016-c9d1-4a63-bdeb-6b55efbd2cf1
 SUMMARY:Sacramento City Council
-DTSTAMP:20250107T200500Z
+DTSTAMP:20250114T200500Z
 DTSTART:20210203T010000Z
 DESCRIPTION:Sign up to take notes for this meeting at https://www.socialjus
 	ticesac.org/wix-sac-city-council
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:57c4c27b-ffdf-4a4a-8145-90db42c3123c
+UID:51863449-7076-40b6-a254-2394a1047080
 SUMMARY:Sacramento City Council
-DTSTAMP:20250107T200500Z
+DTSTAMP:20250114T200500Z
 DTSTART:20210209T220000Z
 DESCRIPTION:Sign up to take notes for this meeting at https://www.socialjus
 	ticesac.org/wix-sac-city-council
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:5c7973a8-9d9b-4dd3-a77a-07f11e4b6810
+UID:3815921b-da0d-4e6e-9424-512476892516
 SUMMARY:Sacramento City Council
-DTSTAMP:20250107T200500Z
+DTSTAMP:20250114T200500Z
 DTSTART:20210217T010000Z
 DESCRIPTION:Sign up to take notes for this meeting at https://www.socialjus
 	ticesac.org/wix-sac-city-council
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:ee615c4c-1c12-44e7-bc8c-e41d15504830
+UID:b50ad94b-d5cb-437e-9276-37d2b7f74bf9
 SUMMARY:Sacramento City Council
-DTSTAMP:20250107T200500Z
+DTSTAMP:20250114T200500Z
 DTSTART:20210303T010000Z
 DESCRIPTION:Sign up to take notes for this meeting at https://www.socialjus
 	ticesac.org/wix-sac-city-council
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:cb7f7423-4e46-4da6-adb8-527444379a91
+UID:bb293b9f-880d-49a6-ad9d-8bfdf9d99644
 SUMMARY:Sacramento City Council
-DTSTAMP:20250107T200500Z
+DTSTAMP:20250114T200500Z
 DTSTART:20210309T220000Z
 DESCRIPTION:Sign up to take notes for this meeting at https://www.socialjus
 	ticesac.org/wix-sac-city-council
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:12752061-6925-4e8e-a59a-c6252cb20096
+UID:d6541bb1-0bd6-4085-805e-c317a0e514f5
 SUMMARY:Sacramento City Council
-DTSTAMP:20250107T200500Z
+DTSTAMP:20250114T200500Z
 DTSTART:20210316T210000Z
 DESCRIPTION:Sign up to take notes for this meeting at https://www.socialjus
 	ticesac.org/wix-sac-city-council
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:8ff6046e-aad4-40b2-9820-449b39eb8fe5
+UID:2f5a19ca-c50d-48d2-9be2-de84f60a92f9
 SUMMARY:Sacramento City Council
-DTSTAMP:20250107T200500Z
+DTSTAMP:20250114T200500Z
 DTSTART:20210317T000000Z
 DESCRIPTION:Sign up to take notes for this meeting at https://www.socialjus
 	ticesac.org/wix-sac-city-council
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:0642d328-6d3a-4ba3-bfb0-a908f2841e22
+UID:6fb2bb5f-1890-403e-b109-f0f8137372d9
 SUMMARY:Sacramento City Council
-DTSTAMP:20250107T200500Z
+DTSTAMP:20250114T200500Z
 DTSTART:20210407T000000Z
 DESCRIPTION:Sign up to take notes for this meeting at https://www.socialjus
 	ticesac.org/wix-sac-city-council
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:6c7b7870-25f7-4030-8d7e-2adfa741b748
+UID:8f5b57fa-2418-4a56-9080-1287a1bae35d
 SUMMARY:Sacramento City Council
-DTSTAMP:20250107T200500Z
+DTSTAMP:20250114T200500Z
 DTSTART:20210413T210000Z
 DESCRIPTION:Sign up to take notes for this meeting at https://www.socialjus
 	ticesac.org/wix-sac-city-council
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:312be7bf-a88c-4b45-81b2-da6d08864c0c
+UID:d790e599-a040-4457-ae88-35fc95816429
 SUMMARY:Sacramento City Council
-DTSTAMP:20250107T200500Z
+DTSTAMP:20250114T200500Z
 DTSTART:20210420T210000Z
 DESCRIPTION:Sign up to take notes for this meeting at https://www.socialjus
 	ticesac.org/wix-sac-city-council
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:4dbbd72f-36ba-445e-bded-72a33b8b8be4
+UID:d3f6a992-1f42-4b85-bffd-7bba9d7b53ce
 SUMMARY:Sacramento City Council
-DTSTAMP:20250107T200500Z
+DTSTAMP:20250114T200500Z
 DTSTART:20210421T000000Z
 DESCRIPTION:Sign up to take notes for this meeting at https://www.socialjus
 	ticesac.org/wix-sac-city-council
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:e95f1f22-d596-48e0-8e3a-bb405f1054c5
+UID:85e68ef0-d111-4b67-8506-fc12e450aa8b
 SUMMARY:Sacramento City Council
-DTSTAMP:20250107T200500Z
+DTSTAMP:20250114T200500Z
 DTSTART:20210505T000000Z
 DESCRIPTION:Sign up to take notes for this meeting at https://www.socialjus
 	ticesac.org/wix-sac-city-council
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:428db80b-31d9-449b-a79e-b652a1cd6d5c
+UID:12879075-a07e-4562-9529-0596c46049a3
 SUMMARY:Sacramento City Council
-DTSTAMP:20250107T200500Z
+DTSTAMP:20250114T200500Z
 DTSTART:20210518T210000Z
 DESCRIPTION:Sign up to take notes for this meeting at https://www.socialjus
 	ticesac.org/wix-sac-city-council
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:468ee70b-0ba1-44fd-bc5c-40ba32a6def6
+UID:2c4ddf9f-ab5a-4b19-801e-bac396a1d06d
 SUMMARY:Sacramento City Council
-DTSTAMP:20250107T200500Z
+DTSTAMP:20250114T200500Z
 DTSTART:20210519T000000Z
 DESCRIPTION:Sign up to take notes for this meeting at https://www.socialjus
 	ticesac.org/wix-sac-city-council
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:84a318f5-0919-440e-85e5-d525fd981067
+UID:7610aaed-1573-4082-94e3-994124b68297
 SUMMARY:Sacramento City Council
-DTSTAMP:20250107T200500Z
+DTSTAMP:20250114T200500Z
 DTSTART:20210525T210000Z
 DESCRIPTION:Sign up to take notes for this meeting at https://www.socialjus
 	ticesac.org/wix-sac-city-council
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:6137739c-d08e-47a0-9caf-aae1bfabfaae
+UID:a1f442c9-794c-45f1-8b17-224bac30c9ca
 SUMMARY:Sacramento City Council
-DTSTAMP:20250107T200500Z
+DTSTAMP:20250114T200500Z
 DTSTART:20210526T000000Z
 DESCRIPTION:Sign up to take notes for this meeting at https://www.socialjus
 	ticesac.org/wix-sac-city-council
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:bef0a05d-40b3-4f17-93f2-7fa97245c93f
+UID:9827be7a-1566-4314-be7b-3021216410b9
 SUMMARY:Sacramento City Council
-DTSTAMP:20250107T200500Z
+DTSTAMP:20250114T200500Z
 DTSTART:20210602T000000Z
 DESCRIPTION:Sign up to take notes for this meeting at https://www.socialjus
 	ticesac.org/wix-sac-city-council
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:13595aa3-c77f-4b40-aa21-99662f818bdb
+UID:688d3dfc-1465-45cc-a422-9b1f4eaad9b9
 SUMMARY:Sacramento City Council
-DTSTAMP:20250107T200500Z
+DTSTAMP:20250114T200500Z
 DTSTART:20210608T210000Z
 DESCRIPTION:Sign up to take notes for this meeting at https://www.socialjus
 	ticesac.org/wix-sac-city-council
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:d839e4e2-8c4e-48d7-ab9e-5a4260a1c603
+UID:eaf865da-17e4-4cbb-9248-a0f8b1d71d57
 SUMMARY:Sacramento City Council
-DTSTAMP:20250107T200500Z
+DTSTAMP:20250114T200500Z
 DTSTART:20210615T210000Z
 DESCRIPTION:Sign up to take notes for this meeting at https://www.socialjus
 	ticesac.org/wix-sac-city-council
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:e0ad94a5-e6ca-4640-a033-af27421d5a51
+UID:4e6b8659-55d9-4aa6-a39b-0a608d1ae67b
 SUMMARY:Sacramento City Council
-DTSTAMP:20250107T200500Z
+DTSTAMP:20250114T200500Z
 DTSTART:20210616T000000Z
 DESCRIPTION:Sign up to take notes for this meeting at https://www.socialjus
 	ticesac.org/wix-sac-city-council
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:1dc680ad-9467-4423-a4b6-65aaacdb81e3
+UID:135c7a33-53ee-460e-9812-b190b8180cb8
 SUMMARY:Sacramento City Council
-DTSTAMP:20250107T200500Z
+DTSTAMP:20250114T200500Z
 DTSTART:20210629T210000Z
 DESCRIPTION:Sign up to take notes for this meeting at https://www.socialjus
 	ticesac.org/wix-sac-city-council
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:a8225fc8-ab79-4609-902b-096151059b19
+UID:f1845ab5-90eb-4a43-b0f3-27384c29612e
 SUMMARY:Sacramento City Council
-DTSTAMP:20250107T200500Z
+DTSTAMP:20250114T200500Z
 DTSTART:20210720T210000Z
 DESCRIPTION:Sign up to take notes for this meeting at https://www.socialjus
 	ticesac.org/wix-sac-city-council
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:ebfc03ba-20ab-45f2-b4d6-f5d2cfbd4aa4
+UID:10cda8b4-e5f5-4d2c-af01-d66884e289d0
 SUMMARY:Sacramento City Council
-DTSTAMP:20250107T200500Z
+DTSTAMP:20250114T200500Z
 DTSTART:20210728T000000Z
 DESCRIPTION:Sign up to take notes for this meeting at https://www.socialjus
 	ticesac.org/wix-sac-city-council
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:4cd6ab6d-4977-43de-804b-973aa6cb155b
+UID:039e50f5-7ed9-4c6d-86bc-0a79f04096dc
 SUMMARY:Sacramento City Council
-DTSTAMP:20250107T200500Z
+DTSTAMP:20250114T200500Z
 DTSTART:20210810T210000Z
 DESCRIPTION:Sign up to take notes for this meeting at https://www.socialjus
 	ticesac.org/wix-sac-city-council
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:f7ab200b-34f1-4004-8aff-2c1c2e4d45f4
+UID:9cf96e33-5ec7-4aeb-9d26-39d28eeb5ef3
 SUMMARY:Sacramento City Council
-DTSTAMP:20250107T200500Z
+DTSTAMP:20250114T200500Z
 DTSTART:20210817T210000Z
 DESCRIPTION:Sign up to take notes for this meeting at https://www.socialjus
 	ticesac.org/wix-sac-city-council
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:a7912496-8a75-4f17-bd81-4871bbd68da7
+UID:3afbf751-637b-405c-9d6a-21e5343a1f5e
 SUMMARY:Sacramento City Council
-DTSTAMP:20250107T200500Z
+DTSTAMP:20250114T200500Z
 DTSTART:20210818T000000Z
 DESCRIPTION:Sign up to take notes for this meeting at https://www.socialjus
 	ticesac.org/wix-sac-city-council
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:b17deed1-2eae-4a5f-8ae0-26a0c107cb4c
+UID:82dbe663-b5e9-4385-bdb2-1db2584576f3
 SUMMARY:Sacramento City Council
-DTSTAMP:20250107T200500Z
+DTSTAMP:20250114T200500Z
 DTSTART:20210825T000000Z
 DESCRIPTION:Sign up to take notes for this meeting at https://www.socialjus
 	ticesac.org/wix-sac-city-council
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:065f61f8-c709-47d8-9ba3-077430aafaa6
+UID:9418a503-f233-4c48-a8d5-7a1b31ef5393
 SUMMARY:Sacramento City Council
-DTSTAMP:20250107T200500Z
+DTSTAMP:20250114T200500Z
 DTSTART:20210914T210000Z
 DESCRIPTION:Sign up to take notes for this meeting at https://www.socialjus
 	ticesac.org/wix-sac-city-council
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:02b391b2-0a29-4f55-a669-2554f2b0c842
+UID:2539231f-4f4e-4302-985f-945c1ff89121
 SUMMARY:Sacramento City Council
-DTSTAMP:20250107T200500Z
+DTSTAMP:20250114T200500Z
 DTSTART:20210921T210000Z
 DESCRIPTION:Sign up to take notes for this meeting at https://www.socialjus
 	ticesac.org/wix-sac-city-council
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:ca62fa58-1910-4e1d-9c2c-e96c11678fce
+UID:ac2b5857-6b40-4492-bc87-85805c02857d
 SUMMARY:Sacramento City Council
-DTSTAMP:20250107T200500Z
+DTSTAMP:20250114T200500Z
 DTSTART:20210922T000000Z
 DESCRIPTION:Sign up to take notes for this meeting at https://www.socialjus
 	ticesac.org/wix-sac-city-council
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:96aa3e7e-4f87-4988-b582-35ea63f81c76
+UID:807c0e2d-b892-43dd-8643-dddb14ca5a5e
 SUMMARY:Sacramento City Council
-DTSTAMP:20250107T200500Z
+DTSTAMP:20250114T200500Z
 DTSTART:20211012T210000Z
 DESCRIPTION:Sign up to take notes for this meeting at https://www.socialjus
 	ticesac.org/wix-sac-city-council
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:4e687769-d177-4b02-9fdb-20a9955318c2
+UID:ccd6215e-fd42-4331-9ee0-75d9f53c4bb6
 SUMMARY:Sacramento City Council
-DTSTAMP:20250107T200500Z
+DTSTAMP:20250114T200500Z
 DTSTART:20211019T210000Z
 DESCRIPTION:Sign up to take notes for this meeting at https://www.socialjus
 	ticesac.org/wix-sac-city-council
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:6d2bf065-3d37-416d-84d6-0d008c6715e6
+UID:474f9448-32de-4a8f-8e05-ca1fe10ecdcf
 SUMMARY:Sacramento City Council
-DTSTAMP:20250107T200500Z
+DTSTAMP:20250114T200500Z
 DTSTART:20211020T000000Z
 DESCRIPTION:Sign up to take notes for this meeting at https://www.socialjus
 	ticesac.org/wix-sac-city-council
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:c27f6b52-771c-4e3f-8af4-5fcd7b03c3c9
+UID:22c5faff-8148-4b38-bb2e-7c033cfff831
 SUMMARY:Sacramento City Council
-DTSTAMP:20250107T200500Z
+DTSTAMP:20250114T200500Z
 DTSTART:20211026T210000Z
 DESCRIPTION:Sign up to take notes for this meeting at https://www.socialjus
 	ticesac.org/wix-sac-city-council
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:bd433045-fe25-47c6-9e25-ff2ff360a9ab
+UID:bc4731d1-2945-4503-9d04-e2a87a6c9fcf
 SUMMARY:Sacramento City Council
-DTSTAMP:20250107T200500Z
+DTSTAMP:20250114T200500Z
 DTSTART:20211027T000000Z
 DESCRIPTION:Sign up to take notes for this meeting at https://www.socialjus
 	ticesac.org/wix-sac-city-council
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:9100aa2f-eb7b-4347-b0a8-6e0c70168507
+UID:bb91eb47-0c62-4e2f-a73f-9a8d04aa84b8
 SUMMARY:Sacramento City Council
-DTSTAMP:20250107T200500Z
+DTSTAMP:20250114T200500Z
 DTSTART:20211109T220000Z
 DESCRIPTION:Sign up to take notes for this meeting at https://www.socialjus
 	ticesac.org/wix-sac-city-council
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:c640934e-1d34-4ae0-874b-4e3419f042da
+UID:0cdf2874-b81d-4f9f-af32-e4300969987f
 SUMMARY:Sacramento City Council
-DTSTAMP:20250107T200500Z
+DTSTAMP:20250114T200500Z
 DTSTART:20211116T220000Z
 DESCRIPTION:Sign up to take notes for this meeting at https://www.socialjus
 	ticesac.org/wix-sac-city-council
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:e7ea28e3-2e48-400e-b625-d98b8f8756d8
+UID:cf63ea5e-1a1e-4865-9cfe-37e6e288a27b
 SUMMARY:Sacramento City Council
-DTSTAMP:20250107T200500Z
+DTSTAMP:20250114T200500Z
 DTSTART:20211117T010000Z
 DESCRIPTION:Sign up to take notes for this meeting at https://www.socialjus
 	ticesac.org/wix-sac-city-council
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:d3e6ebdd-5660-4144-98c8-c2b33877e843
+UID:c481652c-2866-4cde-8dd9-2b12d6e8e60c
 SUMMARY:Sacramento City Council
-DTSTAMP:20250107T200500Z
+DTSTAMP:20250114T200500Z
 DTSTART:20211201T010000Z
 DESCRIPTION:Sign up to take notes for this meeting at https://www.socialjus
 	ticesac.org/wix-sac-city-council
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:ad7c84a9-a97a-40a1-8584-1591b21fed5f
+UID:9e2fe06c-5363-42ba-9b84-ed1fb3434210
 SUMMARY:Sacramento City Council
-DTSTAMP:20250107T200500Z
+DTSTAMP:20250114T200500Z
 DTSTART:20211207T220000Z
 DESCRIPTION:Sign up to take notes for this meeting at https://www.socialjus
 	ticesac.org/wix-sac-city-council
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:450d2151-484e-4e12-8f28-1e8c43beb086
+UID:9ec02d81-de14-49c3-b78b-3f3d4adbe9ef
 SUMMARY:Sacramento City Council
-DTSTAMP:20250107T200500Z
+DTSTAMP:20250114T200500Z
 DTSTART:20211208T010000Z
 DESCRIPTION:Sign up to take notes for this meeting at https://www.socialjus
 	ticesac.org/wix-sac-city-council
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:ada1042d-89f6-4f75-8bd2-b0c029b015b5
+UID:effae083-cac9-4e1a-a4ff-f71bb82b011f
 SUMMARY:Sacramento City Council
-DTSTAMP:20250107T200500Z
+DTSTAMP:20250114T200500Z
 DTSTART:20211214T220000Z
 DESCRIPTION:Sign up to take notes for this meeting at https://www.socialjus
 	ticesac.org/wix-sac-city-council
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:9a2c69b1-5127-4b5b-97a2-8676c21c7a80
+UID:960b6f57-fc43-483d-af96-deb0c97fcbaf
 SUMMARY:Sacramento City Council
-DTSTAMP:20250107T200500Z
+DTSTAMP:20250114T200500Z
 DTSTART:20230222T010000Z
 DESCRIPTION:Sign up to take notes for this meeting at https://www.socialjus
 	ticesac.org/wix-sac-city-council
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:e7424563-3d82-444d-8a8a-423398896980
+UID:5f78ff36-a6a7-463d-8a1d-39e9287c915d
 SUMMARY:Sacramento City Council
-DTSTAMP:20250107T200500Z
+DTSTAMP:20250114T200500Z
 DTSTART:20230308T010000Z
 DESCRIPTION:Sign up to take notes for this meeting at https://www.socialjus
 	ticesac.org/wix-sac-city-council
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:ab858186-903b-44cd-95f3-c995a4a9f4ce
+UID:9ec6fd2b-9f62-4ef2-ab1e-e0986b71466c
 SUMMARY:Sacramento City Council
-DTSTAMP:20250107T200500Z
+DTSTAMP:20250114T200500Z
 DTSTART:20230315T000000Z
 DESCRIPTION:Sign up to take notes for this meeting at https://www.socialjus
 	ticesac.org/wix-sac-city-council
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:e3bae9fa-c854-4b80-916e-6bfc097c37e2
+UID:0b3671b7-5506-4b45-a6ae-1f23b7e83289
 SUMMARY:Sacramento City Council
-DTSTAMP:20250107T200500Z
+DTSTAMP:20250114T200500Z
 DTSTART:20230322T000000Z
 DESCRIPTION:Sign up to take notes for this meeting at https://www.socialjus
 	ticesac.org/wix-sac-city-council
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:b6e75eb1-e4e8-4d5b-8b33-eb3deb1dcb92
+UID:48d14743-e3f7-4f57-b4aa-f4319fac287d
 SUMMARY:Sacramento City Council
-DTSTAMP:20250107T200500Z
+DTSTAMP:20250114T200500Z
 DTSTART:20230329T000000Z
 DESCRIPTION:Sign up to take notes for this meeting at https://www.socialjus
 	ticesac.org/wix-sac-city-council
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:301a0014-85f9-442d-9239-dad2bf4ad494
+UID:663451d2-0092-4ace-84bf-a00d086a0575
 SUMMARY:Sacramento City Council
-DTSTAMP:20250107T200500Z
+DTSTAMP:20250114T200500Z
 DTSTART:20230405T000000Z
 DESCRIPTION:Sign up to take notes for this meeting at https://www.socialjus
 	ticesac.org/wix-sac-city-council
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:3d7fc338-d583-4a75-8aff-12db05cc6d55
+UID:419ea0ba-2559-4ab8-aeb2-79f6a22adbc6
 SUMMARY:Sacramento City Council
-DTSTAMP:20250107T200500Z
+DTSTAMP:20250114T200500Z
 DTSTART:20230411T210000Z
 DESCRIPTION:Sign up to take notes for this meeting at https://www.socialjus
 	ticesac.org/wix-sac-city-council
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:43e011f0-e391-4b3d-ad6a-39a427861f9f
+UID:7f3cba8b-02d1-4ed7-9579-8ae347097416
 SUMMARY:Sacramento City Council
-DTSTAMP:20250107T200500Z
+DTSTAMP:20250114T200500Z
 DTSTART:20230419T000000Z
 DESCRIPTION:Sign up to take notes for this meeting at https://www.socialjus
 	ticesac.org/wix-sac-city-council
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:ce59b278-f924-442b-a081-ff648cc4e5bd
+UID:9ac60afc-a989-4f5b-86fe-4f063c4488e3
 SUMMARY:Sacramento City Council
-DTSTAMP:20250107T200500Z
+DTSTAMP:20250114T200500Z
 DTSTART:20230503T000000Z
 DESCRIPTION:Sign up to take notes for this meeting at https://www.socialjus
 	ticesac.org/wix-sac-city-council
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:6144340f-fb3d-4b08-a8b3-5b8164121627
+UID:464bb9df-4fd2-4b4f-a0bb-51dedf251c10
 SUMMARY:Sacramento City Council
-DTSTAMP:20250107T200500Z
+DTSTAMP:20250114T200500Z
 DTSTART:20230510T000000Z
 DESCRIPTION:Sign up to take notes for this meeting at https://www.socialjus
 	ticesac.org/wix-sac-city-council
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:03662bb7-18d0-40b6-be4b-6c706514082c
+UID:406b5496-7d51-4f25-919e-7f3c0a3c66f8
 SUMMARY:Sacramento City Council
-DTSTAMP:20250107T200500Z
+DTSTAMP:20250114T200500Z
 DTSTART:20230517T000000Z
 DESCRIPTION:Sign up to take notes for this meeting at https://www.socialjus
 	ticesac.org/wix-sac-city-council
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:125ee5b7-1eec-4c13-9063-899ac2ab1fb4
+UID:cb3cc0f3-0878-4e3d-80e9-eadf4d30e6ff
 SUMMARY:Sacramento City Council
-DTSTAMP:20250107T200500Z
+DTSTAMP:20250114T200500Z
 DTSTART:20230524T000000Z
 DESCRIPTION:Sign up to take notes for this meeting at https://www.socialjus
 	ticesac.org/wix-sac-city-council
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:13732a74-4b39-46cf-b78d-fb8c01a5ec0e
+UID:4f54f581-bc2c-4c9c-82d1-9d8a0c45cc4d
 SUMMARY:Sacramento City Council
-DTSTAMP:20250107T200500Z
+DTSTAMP:20250114T200500Z
 DTSTART:20230531T000000Z
 DESCRIPTION:Sign up to take notes for this meeting at https://www.socialjus
 	ticesac.org/wix-sac-city-council
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:223bff7f-7d02-43bc-b238-c85c5c228c3a
+UID:7bce5c14-641a-4ecb-80af-cfce69941df2
 SUMMARY:Sacramento City Council
-DTSTAMP:20250107T200500Z
+DTSTAMP:20250114T200500Z
 DTSTART:20230614T000000Z
 DESCRIPTION:Sign up to take notes for this meeting at https://www.socialjus
 	ticesac.org/wix-sac-city-council
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:ceb2aeee-f8c6-482e-b4fe-92db28fe33da
+UID:7cab15c4-4d1b-4bac-a10e-d697413beacb
 SUMMARY:Sacramento City Council
-DTSTAMP:20250107T200500Z
+DTSTAMP:20250114T200500Z
 DTSTART:20230621T000000Z
 DESCRIPTION:Sign up to take notes for this meeting at https://www.socialjus
 	ticesac.org/wix-sac-city-council
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:779fe0d3-55e6-4add-992a-563be875219f
+UID:1e80f9a5-1018-42f0-9ed3-34de15255295
 SUMMARY:Sacramento City Council
-DTSTAMP:20250107T200500Z
+DTSTAMP:20250114T200500Z
 DTSTART:20230628T000000Z
 DESCRIPTION:Sign up to take notes for this meeting at https://www.socialjus
 	ticesac.org/wix-sac-city-council
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:e2d08e7f-0e61-4f1b-80ce-d00fa9fbd393
+UID:46d75df0-d413-4fdb-a8f4-da01cc7e0597
 SUMMARY:Sacramento City Council
-DTSTAMP:20250107T200500Z
+DTSTAMP:20250114T200500Z
 DTSTART:20230726T000000Z
 DESCRIPTION:Sign up to take notes for this meeting at https://www.socialjus
 	ticesac.org/wix-sac-city-council
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:451ec083-7c9e-484f-b03c-9b6d5680aade
+UID:ba8b7ae7-5628-4d28-a129-1529a98fe8b0
 SUMMARY:Sacramento City Council
-DTSTAMP:20250107T200500Z
+DTSTAMP:20250114T200500Z
 DTSTART:20230809T000000Z
 DESCRIPTION:Sign up to take notes for this meeting at https://www.socialjus
 	ticesac.org/wix-sac-city-council
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:85122907-d14e-4409-8352-9e36c7974479
+UID:462d70ea-c595-45d0-8f6f-d333393846db
 SUMMARY:Sacramento City Council
-DTSTAMP:20250107T200500Z
+DTSTAMP:20250114T200500Z
 DTSTART:20230816T000000Z
 DESCRIPTION:Sign up to take notes for this meeting at https://www.socialjus
 	ticesac.org/wix-sac-city-council
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:82c329e4-8ca5-46bd-b50a-aec17cfec821
+UID:e2e60604-94fc-4ffd-8037-a1607d7da56b
 SUMMARY:Sacramento City Council
-DTSTAMP:20250107T200500Z
+DTSTAMP:20250114T200500Z
 DTSTART:20230823T000000Z
 DESCRIPTION:Sign up to take notes for this meeting at https://www.socialjus
 	ticesac.org/wix-sac-city-council
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:a40e32ba-8940-4a14-9ad7-e12f19b5c891
+UID:b30df059-f450-4fde-8de0-7d8e1ef4d8a4
 SUMMARY:Sacramento City Council
-DTSTAMP:20250107T200500Z
+DTSTAMP:20250114T200500Z
 DTSTART:20230830T000000Z
 DESCRIPTION:Sign up to take notes for this meeting at https://www.socialjus
 	ticesac.org/wix-sac-city-council
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:a85c515a-be06-41fb-b24a-c777f2bda5b4
+UID:531ce0e5-2f1b-4974-950d-17af8a4c0e5c
 SUMMARY:Sacramento City Council
-DTSTAMP:20250107T200500Z
+DTSTAMP:20250114T200500Z
 DTSTART:20230906T000000Z
 DESCRIPTION:Sign up to take notes for this meeting at https://www.socialjus
 	ticesac.org/wix-sac-city-council
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:798def2a-31b0-48c9-8c6e-afc0375314e0
+UID:9d7e2915-e7d7-4765-a841-f367c0107364
 SUMMARY:Sacramento City Council
-DTSTAMP:20250107T200500Z
+DTSTAMP:20250114T200500Z
 DTSTART:20230913T000000Z
 DESCRIPTION:Sign up to take notes for this meeting at https://www.socialjus
 	ticesac.org/wix-sac-city-council
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:f33624d9-3eb2-4a3b-9e7e-0b276df8bd87
+UID:528e7bae-7667-4fb2-8820-86d5b1efb2bc
 SUMMARY:Sacramento City Council
-DTSTAMP:20250107T200500Z
+DTSTAMP:20250114T200500Z
 DTSTART:20230920T000000Z
 DESCRIPTION:Sign up to take notes for this meeting at https://www.socialjus
 	ticesac.org/wix-sac-city-council
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:436d1a8a-0201-44b5-a032-751a52965d9d
+UID:c4b726a3-70c5-42f6-b379-83d80f8c0f94
 SUMMARY:Sacramento City Council
-DTSTAMP:20250107T200500Z
+DTSTAMP:20250114T200500Z
 DTSTART:20230927T000000Z
 DESCRIPTION:Sign up to take notes for this meeting at https://www.socialjus
 	ticesac.org/wix-sac-city-council
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:2b482ce8-7c27-4888-954f-1040922e8ac7
+UID:7b24a41e-0570-4fed-b40c-37bd506ad27f
 SUMMARY:Sacramento City Council
-DTSTAMP:20250107T200500Z
+DTSTAMP:20250114T200500Z
 DTSTART:20231004T000000Z
 DESCRIPTION:Sign up to take notes for this meeting at https://www.socialjus
 	ticesac.org/wix-sac-city-council
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:096dcf74-d6ed-4ff0-8198-3d72350135fe
+UID:944d9683-8eaa-491a-acdd-a8659518996c
 SUMMARY:Sacramento City Council
-DTSTAMP:20250107T200500Z
+DTSTAMP:20250114T200500Z
 DTSTART:20231011T000000Z
 DESCRIPTION:Sign up to take notes for this meeting at https://www.socialjus
 	ticesac.org/wix-sac-city-council
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:a5f65c77-b0a9-4c95-b7b1-9c2dad7b6458
+UID:6a911ede-da42-4b35-9137-0101aba6e991
 SUMMARY:Sacramento City Council
-DTSTAMP:20250107T200500Z
+DTSTAMP:20250114T200500Z
 DTSTART:20231018T000000Z
 DESCRIPTION:Sign up to take notes for this meeting at https://www.socialjus
 	ticesac.org/wix-sac-city-council
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:8fef9075-e69f-487a-9ca1-53465e49d56d
+UID:be4baf09-12fd-4cab-8262-11264e02ac29
 SUMMARY:Sacramento City Council
-DTSTAMP:20250107T200500Z
+DTSTAMP:20250114T200500Z
 DTSTART:20231025T000000Z
 DESCRIPTION:Sign up to take notes for this meeting at https://www.socialjus
 	ticesac.org/wix-sac-city-council
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:6fd4629f-21cb-4374-b43e-cf112f556225
+UID:54940cad-ac56-44b3-9e79-33a23b90f20f
 SUMMARY:Sacramento City Council
-DTSTAMP:20250107T200500Z
+DTSTAMP:20250114T200500Z
 DTSTART:20231101T000000Z
 DESCRIPTION:Sign up to take notes for this meeting at https://www.socialjus
 	ticesac.org/wix-sac-city-council
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:77c0461c-7ff7-4f81-a199-36ec087e6fcb
+UID:093ef5a8-39cd-4d1e-8529-b7379fa23c20
 SUMMARY:Sacramento City Council
-DTSTAMP:20250107T200500Z
+DTSTAMP:20250114T200500Z
 DTSTART:20231115T010000Z
 DESCRIPTION:Sign up to take notes for this meeting at https://www.socialjus
 	ticesac.org/wix-sac-city-council
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:b4b762a0-f4b2-4837-ac53-86bc98bb3adc
+UID:bf28fbfd-9f66-4681-aced-0dbd2e51943b
 SUMMARY:Sacramento City Council
-DTSTAMP:20250107T200500Z
+DTSTAMP:20250114T200500Z
 DTSTART:20231129T010000Z
 DESCRIPTION:Sign up to take notes for this meeting at https://www.socialjus
 	ticesac.org/wix-sac-city-council
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:da978547-9a28-412e-9a80-2e6fc30b2027
+UID:326ff375-4a63-4afc-b85c-f3aaa1b573f3
 SUMMARY:Sacramento City Council
-DTSTAMP:20250107T200500Z
+DTSTAMP:20250114T200500Z
 DTSTART:20231206T010000Z
 DESCRIPTION:Sign up to take notes for this meeting at https://www.socialjus
 	ticesac.org/wix-sac-city-council
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:63305f2a-d457-458c-8174-c2d27de73db2
+UID:8b393415-d446-4b55-90b7-c91cd588d8e6
 SUMMARY:Sacramento City Council
-DTSTAMP:20250107T200500Z
+DTSTAMP:20250114T200500Z
 DTSTART:20231213T010000Z
 DESCRIPTION:Sign up to take notes for this meeting at https://www.socialjus
 	ticesac.org/wix-sac-city-council
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:ab4d8aee-b758-4ddf-9589-35db342db5d5
+UID:8b03c973-f218-46f8-b66c-7bded6e6f5fa
 SUMMARY:SCUSD Board Meeting
-DTSTAMP:20250107T200500Z
+DTSTAMP:20250114T200500Z
 DTSTART:20250117T020000Z
 DESCRIPTION:Sign up to take notes for this meeting at https://www.socialjus
 	ticesac.org/wix-scusd
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:d6704bb6-b654-42ed-b16a-68cf451ac248
+UID:779aa05e-33ad-4838-b586-c5bcf4592549
 SUMMARY:SCUSD Board Meeting
-DTSTAMP:20250107T200500Z
+DTSTAMP:20250114T200500Z
 DTSTART:20250207T020000Z
 DESCRIPTION:Sign up to take notes for this meeting at https://www.socialjus
 	ticesac.org/wix-scusd
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:ca2d69f2-f166-4365-ba09-99fe117c6fbe
+UID:272e15f5-6045-49f6-bdfb-d9abde85d319
 SUMMARY:SCUSD Board Meeting
-DTSTAMP:20250107T200500Z
+DTSTAMP:20250114T200500Z
 DTSTART:20250221T020000Z
 DESCRIPTION:Sign up to take notes for this meeting at https://www.socialjus
 	ticesac.org/wix-scusd
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:e2cc948b-5da9-4435-93e7-0c9e1a277ffd
+UID:a7bcb0a9-21aa-46a9-accc-61f7e0f6388a
 SUMMARY:SCUSD Board Meeting
-DTSTAMP:20250107T200500Z
+DTSTAMP:20250114T200500Z
 DTSTART:20250307T020000Z
 DESCRIPTION:Sign up to take notes for this meeting at https://www.socialjus
 	ticesac.org/wix-scusd
 DURATION:PT2H
 END:VEVENT
 BEGIN:VEVENT
-UID:57a50e99-a8ff-44c7-a3bb-f9ac4366b0ef
+UID:3bfeee84-20ea-482f-a1ab-378f8ef46849
 SUMMARY:SCUSD Board Meeting
-DTSTAMP:20250107T200500Z
+DTSTAMP:20250114T200500Z
 DTSTART:20250321T010000Z
+DESCRIPTION:Sign up to take notes for this meeting at https://www.socialjus
+	ticesac.org/wix-scusd
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:b44753fe-79c3-482a-aecf-93459c9ce519
+SUMMARY:SCUSD Board Meeting
+DTSTAMP:20250114T200500Z
+DTSTART:20250404T010000Z
 DESCRIPTION:Sign up to take notes for this meeting at https://www.socialjus
 	ticesac.org/wix-scusd
 DURATION:PT2H
